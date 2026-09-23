@@ -3,13 +3,13 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.13.1</title>
-            <pubDate>Mon, 21 Sep 2026 18:11:42 +0200</pubDate>
+            <title>0.14.0</title>
+            <pubDate>Wed, 23 Sep 2026 16:18:33 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>145</sparkle:version>
-            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:version>148</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-21T16-11-36Z/Mindcrack-0.13.1.dmg" length="5651204" type="application/octet-stream" sparkle:edSignature="7L1ix5ZgUWnBaUeCTTIBNPtRmEjs0Fer/srK+wvJLaLjdG2ADorTPl8LM13Q8ofBTrCJkDZFLJ2PLhnHv8cgBA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-23T14-18-24Z/Mindcrack-0.14.0.dmg" length="5705154" type="application/octet-stream" sparkle:edSignature="JXJPKRrf9urJjEKkHN8GJQpt4Rc0hhvO5vXrBjYAmflmmiLOa7AATwH0ugt0MUuGLi8dUwJYrSqBQ+Ok2z5yAg=="/>
         </item>
     </channel>
 </rss>
