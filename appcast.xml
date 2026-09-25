@@ -4,12 +4,19 @@
         <title>Mindcrack</title>
         <item>
             <title>0.28.0</title>
-            <pubDate>Fri, 25 Sep 2026 10:38:28 +0200</pubDate>
+            <pubDate>Fri, 25 Sep 2026 15:31:22 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>217</sparkle:version>
+            <sparkle:version>219</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T08-38-23Z/Mindcrack-0.28.0.dmg" length="6060573" type="application/octet-stream" sparkle:edSignature="BhsawssH4eRwcGxzhUy80d3VSn4gWVUcouc9vv5zViNENc59GoNIqCp+tXEibyZnJ01Q+OuOtsGx9pUaF/mwDg=="/>
+            <description><![CDATA[<h2>Mindcrack 0.28.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
+<ul>
+<li>Vokabular als Datei: taxonomy export / import</li>
+<li>Der Anker verraet das Bauteil — und around versteht Synonyme</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T13-31-16Z/Mindcrack-0.28.0.dmg" length="6100618" type="application/octet-stream" sparkle:edSignature="Yatt/Z4q33jyqQgX5mG3uiJQ2ShUmn5XbRK/CTEfQPdLfCw+6f3bnxabDssJavVrnM+INfAEQB0m86rE+YuTAw=="/>
         </item>
     </channel>
 </rss>
