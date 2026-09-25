@@ -4,18 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.28.0</title>
-            <pubDate>Fri, 25 Sep 2026 17:36:53 +0200</pubDate>
+            <pubDate>Fri, 25 Sep 2026 17:55:13 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>223</sparkle:version>
+            <sparkle:version>224</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.28.0</h2>
 <p>1 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>atlas brief: alles zu einem Posten in einem Aufruf</li>
+<li>Eine neu getippte Art bleibt sichtbar — der Elternwert fehlte beim Anlegen</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T15-36-46Z/Mindcrack-0.28.0.dmg" length="6229666" type="application/octet-stream" sparkle:edSignature="cwTXs6eYnjYT2iAiXvxCZsvYsLZqMUnMwbcGmiAodIBb4QW4ZxzZtWX96tSzfWaREsVL6Z8ZuLyewsaIDpvyAQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T15-55-08Z/Mindcrack-0.28.0.dmg" length="6230514" type="application/octet-stream" sparkle:edSignature="cctH5m9KzetYVZEviSL1pAeYfycM0HOgwsFD+2raNLUUHLaZpcl4g1QT8GR5ladEXTxdWcgKUf1MJrrlavobAQ=="/>
         </item>
     </channel>
 </rss>
