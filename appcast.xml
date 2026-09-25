@@ -4,18 +4,20 @@
         <title>Mindcrack</title>
         <item>
             <title>0.28.0</title>
-            <pubDate>Sat, 26 Sep 2026 00:05:02 +0200</pubDate>
+            <pubDate>Sat, 26 Sep 2026 01:33:28 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>233</sparkle:version>
+            <sparkle:version>236</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.28.0</h2>
-<p>0 Änderungen seit der letzten Fassung.</p>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-
+<li>Der ganze Backlog eines Projekts in EINEM Aufruf</li>
+<li>doctor nennt die wahre neueste Sicherung, brief nennt die wahre Gesamtzahl</li>
+<li>subtask --remove: eine Unteraufgabe laesst sich wieder loeschen</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T22-04-56Z/Mindcrack-0.28.0.dmg" length="6259791" type="application/octet-stream" sparkle:edSignature="ElCuowbFxEKg7Ag0zSbvtvavpuVspwm4FskGmOG8hM8mJpmx0+XlcCMI35Z1Q5k4b8L7LsBMrpMfYKSe/0O8CA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T23-33-22Z/Mindcrack-0.28.0.dmg" length="6271322" type="application/octet-stream" sparkle:edSignature="4hkbrRPEpfmkCEtkn6wDJNsLGzjVzE3YPSJeiBQ7vDzWaZ6gMyU64o1tIg32tZewodB31N2BRYD35/hG4vDVBg=="/>
         </item>
     </channel>
 </rss>
