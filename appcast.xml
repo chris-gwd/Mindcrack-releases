@@ -4,18 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.28.0</title>
-            <pubDate>Fri, 25 Sep 2026 21:26:21 +0200</pubDate>
+            <pubDate>Fri, 25 Sep 2026 21:57:57 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>229</sparkle:version>
+            <sparkle:version>230</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.28.0</h2>
 <p>1 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Der Stand gilt je Projekt — auch beim Lesen</li>
+<li>Quelltext auf Englisch — Regel, Werkzeug und erste zwei Wellen</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T19-26-13Z/Mindcrack-0.28.0.dmg" length="6246986" type="application/octet-stream" sparkle:edSignature="5SjfrMPOSb66Tx+UzVps6zw4tDyzTjLSdxg0cnb7Vf730Ylj6bK+8TldWQ3T6SOeiSSmFa+AXgW579g6K093CA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T19-57-50Z/Mindcrack-0.28.0.dmg" length="6247610" type="application/octet-stream" sparkle:edSignature="xSFkgdvJAQof39RclQbDXtORJw+MTrfUvRgOyu+9SbE0HA1EPpKxz3lQKebMAYQ4Uo0U7Y0wmljKUQ1ZX2N1BQ=="/>
         </item>
     </channel>
 </rss>
