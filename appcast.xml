@@ -4,7 +4,7 @@
         <title>Mindcrack</title>
         <item>
             <title>0.28.0</title>
-            <pubDate>Fri, 25 Sep 2026 23:57:26 +0200</pubDate>
+            <pubDate>Fri, 25 Sep 2026 23:59:22 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
             <sparkle:version>233</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
@@ -15,7 +15,7 @@
 
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T21-57-21Z/Mindcrack-0.28.0.dmg" length="6259361" type="application/octet-stream" sparkle:edSignature="IcPvongJw2ewJe6qobwyI1nxzTPNdeyHFrGvcUkecwRc/bNNxWMyiGv9ZRWzdNDKIerRIcv8bZDjm/nhNT+dDg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T21-59-16Z/Mindcrack-0.28.0.dmg" length="6259830" type="application/octet-stream" sparkle:edSignature="/sXNCBCVuxvrEEhHvOmbD+FIBiSOhAhkG+vNhUPtaLOIiHkuai1LyaBfBUq1RwzoVEo4oFPBfR9BeWM1T7cmBQ=="/>
         </item>
     </channel>
 </rss>
