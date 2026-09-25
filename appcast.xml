@@ -4,18 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.28.0</title>
-            <pubDate>Fri, 25 Sep 2026 20:29:35 +0200</pubDate>
+            <pubDate>Fri, 25 Sep 2026 20:33:47 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
             <sparkle:version>228</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.28.0</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+<p>0 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Der Leitfaden findet den Agenten, statt auf ihn zu warten</li>
+
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T18-29-29Z/Mindcrack-0.28.0.dmg" length="6247315" type="application/octet-stream" sparkle:edSignature="NzqijA+vzTSnNbCIJ20KO4DLWegbO+sq2sUZNtX4k044UQcH688wJT2+rydGbHnydOGTT7enEKbnIbE1XS13Dw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-25T18-33-41Z/Mindcrack-0.28.0.dmg" length="6250171" type="application/octet-stream" sparkle:edSignature="+6bXT/YRB0IAU0uthzzaGZTldVSOhNjzy04JUn5gcbBNeFZiOJ66RsLbQKzoI1NlpMpwC3cXs46UogLIZQ9dBQ=="/>
         </item>
     </channel>
 </rss>
