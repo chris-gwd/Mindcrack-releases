@@ -4,19 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sat, 26 Sep 2026 21:50:02 +0200</pubDate>
+            <pubDate>Sat, 26 Sep 2026 21:56:45 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>241</sparkle:version>
+            <sparkle:version>242</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+<p>1 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Echte Markenlogos, Gruppen als Baum, und die Art verschwindet nicht mehr stumm</li>
-<li>doctor kennt totes Vokabular, Staende tragen ihre Bedeutung, capture trennt die Stroeme</li>
+<li>Aehnliche Posten schon beim Tippen des Titels</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-26T19-49-45Z/Mindcrack-0.29.0.dmg" length="6525412" type="application/octet-stream" sparkle:edSignature="OLd8g9THAyUkwdtApk10hePZQwAyhjTYiY0bhvJc1JazSDqCBNxRW2nLcxHv5BtOM7utDus7kTPCoHkvz10iDA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-26T19-56-39Z/Mindcrack-0.29.0.dmg" length="6559363" type="application/octet-stream" sparkle:edSignature="qhnmRp+NZrDsFhbijTMNKwD7oQ+kHuMq6lkZ02uakVXq+ZKvSZsvGbkTnyaocGKsjfkc4zBMqnaYbyP3KhoEBQ=="/>
         </item>
     </channel>
 </rss>
