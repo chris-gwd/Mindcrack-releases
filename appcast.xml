@@ -4,19 +4,19 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sat, 26 Sep 2026 23:18:07 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 00:04:49 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>248</sparkle:version>
+            <sparkle:version>250</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Brainvomit-Zeile: Abstaende nach Proximitaet staffeln</li>
-<li>Der Scraper liest endlich die Beschreibung der Seite</li>
+<li>Gezogene Adressen auf einer Gruppenkachel aufnehmen, als Schub</li>
+<li>Einsortieren: vorschlagen, was bei diesem Feature ueblich ist — und Meldungen nennen wieder den Posten</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-26T21-18-01Z/Mindcrack-0.29.0.dmg" length="6637027" type="application/octet-stream" sparkle:edSignature="5mqNVqLWXAkYXKVbKvLuNhHiNtvBdJF1VW8FG7JNG0KtQ0WM1dM0tFhmnA/Tg1QazvsqVeG0ZOdBOv7oRDt+Dw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-26T22-04-43Z/Mindcrack-0.29.0.dmg" length="6658614" type="application/octet-stream" sparkle:edSignature="94N89UZtKRW3NGZZ9I/PwJCU8CzPoBsdeVwXNvFqtpHcKkvy2GxW3ESqCgUczM+c9LgoGX8qtPVTLpdJ237GBA=="/>
         </item>
     </channel>
 </rss>
