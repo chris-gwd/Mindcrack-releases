@@ -4,18 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sun, 27 Sep 2026 13:47:47 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 13:53:23 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
             <sparkle:version>266</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+<p>0 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Die Segmentleiste bricht nicht mehr: jedes Segment so breit wie SEIN Wort</li>
+
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T11-47-41Z/Mindcrack-0.29.0.dmg" length="6691846" type="application/octet-stream" sparkle:edSignature="cUJxmRQaCtD7Pb3bdJGJkovJrbguGr7S6QzIxoxJ3iMTQIzeBvBqihcZ+4H0IzdYon6YG4Z4/7GyinhL7ZF8BA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T11-53-17Z/Mindcrack-0.29.0.dmg" length="6691531" type="application/octet-stream" sparkle:edSignature="VjZIAV49EgXU/F8V+QWjfpIHs6RNwa07g2R3wUK+wMwsCA6GIbbVaeDrfeTEsQSQPExqtwVjDCLkg5oBxui4AQ=="/>
         </item>
     </channel>
 </rss>
