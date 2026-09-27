@@ -4,18 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sun, 27 Sep 2026 10:32:53 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 11:26:31 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>257</sparkle:version>
+            <sparkle:version>258</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
 <p>1 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Farbiger Text im Dunkelmodus: 10 von 18 Toenen lagen unter WCAG AA</li>
+<li>Pruefstand kann den Dunkelmodus zeigen: ATLAS_APPEARANCE</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T08-32-47Z/Mindcrack-0.29.0.dmg" length="6660359" type="application/octet-stream" sparkle:edSignature="QIvf8xX+6lkn4Qkz1JeBaW1TCDMX6rP2hlBy9oQBUIL/B7S9ltJg7HfYXV7/DSpnvXE21QMGsmmAFkaEEOE7Dg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T09-26-25Z/Mindcrack-0.29.0.dmg" length="6662758" type="application/octet-stream" sparkle:edSignature="2OQf/mS9VN3pOOTBOsEdLsmJUJ3OC+e992YsMJwwj7xgau/5Auk/8KC9YUeMHa1hBRPmOXfwpuVSfM4CO0ncAw=="/>
         </item>
     </channel>
 </rss>
