@@ -4,18 +4,19 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sun, 27 Sep 2026 16:08:48 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 16:32:19 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>271</sparkle:version>
+            <sparkle:version>273</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Drei Symbole nachgebessert: der Name allein war nicht die Wahl</li>
+<li>build.sh laesst den Bau-Ordner nativ zurueck</li>
+<li>Beim Anlegen einer Gruppe steht da, was es schon gibt</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T14-08-42Z/Mindcrack-0.29.0.dmg" length="6731593" type="application/octet-stream" sparkle:edSignature="q3FJ562DANd5iQ6xfJbE37RbncX8mzJsLfUzZwnuiPuDPVpZvgVUgXYdQ8nP/TU3r/au9nKN0NUx0bW22FEWBA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T14-32-13Z/Mindcrack-0.29.0.dmg" length="6751307" type="application/octet-stream" sparkle:edSignature="D8L6D+qYgk0GcaJMx36IYAi5Lju8t5IahJBVPlnk5qaRD/Zkm4LwRtCe/izc6/ZN47GOPsZXApVHw8lgQuIkCw=="/>
         </item>
     </channel>
 </rss>
