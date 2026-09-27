@@ -4,18 +4,19 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sun, 27 Sep 2026 12:38:28 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 13:16:26 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>262</sparkle:version>
+            <sparkle:version>264</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Die Meldung kannte den siebten Stand nicht</li>
+<li>Der Zaehler-Radius bekommt einen eigenen Namen statt eines fremden Abstands</li>
+<li>Die Suche laedt einmal statt bei jedem Anschlag — und eine Liste ergibt eine Liste</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T10-38-23Z/Mindcrack-0.29.0.dmg" length="6666434" type="application/octet-stream" sparkle:edSignature="89uVkhIpMb5+84Kv1HCicE9yBhOrWh7bMp0hggnDMrp+NPY8ygud1T3VXMuijFCpO1++x0Oc5OJ8xXSPlbyVAw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T11-16-20Z/Mindcrack-0.29.0.dmg" length="6686159" type="application/octet-stream" sparkle:edSignature="cqcKs+QCWXwhfp7PBARegukfbnj89Gfvk0m+ul7zlIhytaDoj9jQA5OACowfw7pkcRhkvhQqy339UauWBcVvDA=="/>
         </item>
     </channel>
 </rss>
