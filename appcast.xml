@@ -4,19 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Sun, 27 Sep 2026 14:12:27 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 14:20:22 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
             <sparkle:version>268</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+<p>0 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>build.sh raeumt seinen Ausgabeordner weg</li>
-<li>Eine Gruppe kann nicht mehr zweimal denselben Namen tragen</li>
+
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T12-12-21Z/Mindcrack-0.29.0.dmg" length="6691041" type="application/octet-stream" sparkle:edSignature="jiliYyVYI1gOrNgdeh9xGrUj3cf+paMLXb6hzX/orD8ZiiKWbMkGq1ZGCfNEuefxxDGmGqnqcFZretgR2x6ICg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T12-20-16Z/Mindcrack-0.29.0.dmg" length="6691110" type="application/octet-stream" sparkle:edSignature="SAfwL/2RTfhoYT93FDsNvin9GBqJZknKs2wUHxCZVR5Ah7H0XBD7dqibFdnsz9DtnGTqB4ot2UxXeIzvbd7CAg=="/>
         </item>
     </channel>
 </rss>
