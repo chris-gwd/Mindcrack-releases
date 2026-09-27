@@ -4,19 +4,18 @@
         <title>Mindcrack</title>
         <item>
             <title>0.29.0</title>
-            <pubDate>Mon, 28 Sep 2026 00:31:04 +0200</pubDate>
+            <pubDate>Mon, 28 Sep 2026 00:37:41 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>278</sparkle:version>
+            <sparkle:version>279</sparkle:version>
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+<p>1 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Backlog-Kopf zeigt die Bewegung statt einer rahmenlosen Gesamtzahl</li>
-<li>Selbsttest: der neue Block lief hinter der Bilanz</li>
+<li>Verlauf haelt Status-Schluessel statt Etiketten (Migration 031)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T22-30-58Z/Mindcrack-0.29.0.dmg" length="6772843" type="application/octet-stream" sparkle:edSignature="O5v0rxN3t3q4jp4UdTVHUu8comQZw+ownePR3UnqxndmmvnAKfC/u0WkumE1b1scMEcYZehr7WDlX+0tHHTFDA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-27T22-37-35Z/Mindcrack-0.29.0.dmg" length="6773159" type="application/octet-stream" sparkle:edSignature="ox1LCbGp7Q8EWVqCijRO6D46nCRyJ1ZJuWyebcmtQDYjvFsIY1bdf+dV0tTm4MgBg7EMZsCjlMLN4oOMc1XJBw=="/>
         </item>
     </channel>
 </rss>
