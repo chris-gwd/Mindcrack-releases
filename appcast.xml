@@ -3,22 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.29.1</title>
-            <pubDate>Sun, 04 Oct 2026 13:04:52 +0200</pubDate>
+            <title>0.30.0</title>
+            <pubDate>Sun, 04 Oct 2026 19:43:07 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>285</sparkle:version>
-            <sparkle:shortVersionString>0.29.1</sparkle:shortVersionString>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.30.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.29.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.30.0</h2>
 <p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Waechter: kein Markenschluessel heisst wie ein allgemeines Symbol</li>
-<li>graphify-out/ ignorieren: der Wissensgraph wird gebaut, nicht versioniert</li>
-<li>Erfassen ohne Sackgasse: ein Schreibvorgang, Achsen am gewaehlten Projekt</li>
-<li>atlas update setzt nur Posten des eigenen Projekts auf live</li>
+<li>Mindcrack als macOS-App mit Kommandozeile, Projekten und Eingangskorb</li>
+<li>Mindcrack: sicherer Mehr-Geräte-Speicher, Filter, Brett, Eingangskorb</li>
+<li>Mindcrack: Kopfzeile mit Bewegung, Einsortier-Vorbelegung, Matrix-Suche</li>
+<li>Fassung 0.30.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-04T11-04-46Z/Mindcrack-0.29.1.dmg" length="6813219" type="application/octet-stream" sparkle:edSignature="tw01OFtEpId1KOcYYGc7jtPaW4LGcBbaA58aZcKfIciMJrXdsf3EqAcShb8l7DYZi+djf22ALUv4vuqQzNXpBA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-04T17-43-01Z/Mindcrack-0.30.0.dmg" length="6820023" type="application/octet-stream" sparkle:edSignature="fuoU1fvyfQpHwr08rqeb7h2TVwFj4sBhX7/5cUS0GlOTM7rmt/I7LbqLsEYjLyP/nIgfdGgy37BExfoPitpjBQ=="/>
         </item>
     </channel>
 </rss>
