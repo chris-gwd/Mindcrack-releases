@@ -3,19 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.29.0</title>
-            <pubDate>Mon, 28 Sep 2026 23:15:32 +0200</pubDate>
+            <title>0.29.1</title>
+            <pubDate>Sun, 04 Oct 2026 13:04:52 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>281</sparkle:version>
-            <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
+            <sparkle:version>285</sparkle:version>
+            <sparkle:shortVersionString>0.29.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.29.0</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.29.1</h2>
+<p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Matrix: das Suchfeld filtert jetzt, und die Trefferzahl meint die Matrix</li>
+<li>Waechter: kein Markenschluessel heisst wie ein allgemeines Symbol</li>
+<li>graphify-out/ ignorieren: der Wissensgraph wird gebaut, nicht versioniert</li>
+<li>Erfassen ohne Sackgasse: ein Schreibvorgang, Achsen am gewaehlten Projekt</li>
+<li>atlas update setzt nur Posten des eigenen Projekts auf live</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-09-28T21-15-26Z/Mindcrack-0.29.0.dmg" length="6793064" type="application/octet-stream" sparkle:edSignature="/Rs0IZUKRdjnVjgw+89ZIxL6NvjNKcX7EUkpPGwF4XWJVfEym4ngJEcaQIuyB1+jAIYwPu2C0LC86KIZfBMSBw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-04T11-04-46Z/Mindcrack-0.29.1.dmg" length="6813219" type="application/octet-stream" sparkle:edSignature="tw01OFtEpId1KOcYYGc7jtPaW4LGcBbaA58aZcKfIciMJrXdsf3EqAcShb8l7DYZi+djf22ALUv4vuqQzNXpBA=="/>
         </item>
     </channel>
 </rss>
