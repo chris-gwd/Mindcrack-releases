@@ -3,22 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.30.0</title>
-            <pubDate>Sun, 04 Oct 2026 19:43:07 +0200</pubDate>
+            <title>0.31.0</title>
+            <pubDate>Sun, 04 Oct 2026 22:29:23 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.30.0</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.31.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.30.0</h2>
-<p>4 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.31.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Mindcrack als macOS-App mit Kommandozeile, Projekten und Eingangskorb</li>
-<li>Mindcrack: sicherer Mehr-Geräte-Speicher, Filter, Brett, Eingangskorb</li>
-<li>Mindcrack: Kopfzeile mit Bewegung, Einsortier-Vorbelegung, Matrix-Suche</li>
-<li>Fassung 0.30.0</li>
+<li>Doppelte Zahlen und Erklaer-Absaetze raus, Segment-Tabs mit Luft</li>
+<li>Kommentare ohne Protokoll-Verweise</li>
+<li>Fassung 0.31.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-04T17-43-01Z/Mindcrack-0.30.0.dmg" length="6820023" type="application/octet-stream" sparkle:edSignature="fuoU1fvyfQpHwr08rqeb7h2TVwFj4sBhX7/5cUS0GlOTM7rmt/I7LbqLsEYjLyP/nIgfdGgy37BExfoPitpjBQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-04T20-29-17Z/Mindcrack-0.31.0.dmg" length="6806237" type="application/octet-stream" sparkle:edSignature="65+qIdBfMrOXs8qRjSaZDb9/Xd/XBWy9UzU/TbhMTbHDeCuakyKEsiQZfXMzfhDl77FPvffC71Rx/pffkkGbDQ=="/>
         </item>
     </channel>
 </rss>
