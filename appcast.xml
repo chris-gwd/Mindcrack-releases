@@ -3,24 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.32.0</title>
-            <pubDate>Mon, 05 Oct 2026 01:51:37 +0200</pubDate>
+            <title>0.32.1</title>
+            <pubDate>Mon, 05 Oct 2026 13:41:54 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
+            <sparkle:version>20261005.1141</sparkle:version>
+            <sparkle:shortVersionString>0.32.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.32.0</h2>
-<p>6 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.32.1</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Kommentare erklaeren nur noch das Warum</li>
-<li>Selbsttest ohne Compiler-Warnungen</li>
-<li>Knopfnamen werden nie gekuerzt</li>
-<li>Ein Bauteil fuer die Zeichenwahl</li>
-<li>Build ohne Compiler-Warnungen</li>
-<li>Fassung 0.32.0</li>
+<li>atlas update schreibt den Live-Stand ueber eine frische Verbindung</li>
+<li>Build-Nummer aus dem Bau-Zeitpunkt statt aus der Commit-Zahl</li>
+<li>Fassung 0.32.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-04T23-51-31Z/Mindcrack-0.32.0.dmg" length="6800098" type="application/octet-stream" sparkle:edSignature="+fXYjaA6wDIC7AGM3fgXxVYxSAML/extInt00dY7ajW/ACYKbqqDnjIZ2zIS+fLp1aDrYlV0f8DtGEzxkZjGDg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-05T11-41-49Z/Mindcrack-0.32.1.dmg" length="6799782" type="application/octet-stream" sparkle:edSignature="CkvKW26WSmlrdPkkpa7bcgb1tQTfeEOskJ8dqs76P34xmz/HOkT2Xxk4Gp344ZnX3SdArxw5GEbU//lfipRMCQ=="/>
         </item>
     </channel>
 </rss>
