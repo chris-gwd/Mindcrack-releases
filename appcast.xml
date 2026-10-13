@@ -3,27 +3,35 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.36.0</title>
-            <pubDate>Tue, 13 Oct 2026 17:38:31 +0200</pubDate>
+            <title>0.38.0</title>
+            <pubDate>Wed, 14 Oct 2026 00:13:27 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261013.1538</sparkle:version>
-            <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
+            <sparkle:version>20261013.2212</sparkle:version>
+            <sparkle:shortVersionString>0.38.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.36.0</h2>
-<p>9 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.38.0</h2>
+<p>17 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Eintragsseite: Spalten mit fester Breitenregel, Karte mit eigener Höhe</li>
-<li>Die Eintragsseite zeigt den Plan, in dem ein Posten steht</li>
-<li>Plan-Karte: Nachbar-Zeilen sind Knöpfe</li>
-<li>Liste und Brett zeigen, in welchem Plan ein Posten steht</li>
 <li>Plan-Schritt ausserhalb der Reihe braucht einen Grund</li>
 <li>Buendel-Vorschlag fuer lose Posten eines Projekts</li>
 <li>Naechster Plan-Schritt ueberspringt einen blockierten Vorgaenger</li>
 <li>Ausliefern eines gebauten Plan-Schritts braucht keinen zweiten Grund</li>
 <li>Fassung 0.36.0</li>
+<li>build.sh: CLI im Speicher per neuer Datei und Umbenennen tauschen</li>
+<li>Updates kommen von selbst: stuendlich pruefen, laden, im Leerlauf einspielen</li>
+<li>Eingabezeile: tippen sucht, Enter notiert in den Brainvomit des Bereichs</li>
+<li>Einsortier-Zeile: Cmd-Enter macht den getippten Text zum Backlog-Posten</li>
+<li>Mehr in der Eingabezeile, je Link ein Eintrag, Erfassen-Blatt entfaellt</li>
+<li>Detail-Spalte neben der Liste</li>
+<li>Link-Idee speichert den Zwischen-Titel, den die Zeile zeigt</li>
+<li>Zeitstempel in der Karte in Ortszeit</li>
+<li>Tastatur in der Liste: Pfeile waehlen, Esc schliesst, Cmd-Enter oeffnet ganz</li>
+<li>Backlog-Liste zeichnet ihre Seite ganz, die Auswahl landet beim ersten Sprung im Bild</li>
+<li>Fassung 0.37.0</li>
+<li>Fassung 0.38.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T15-38-21Z/Mindcrack-0.36.0.dmg" length="7186172" type="application/octet-stream" sparkle:edSignature="UZwBNMNnh+YAdufOY30Kh3C1zwkDuOLxHYHFWUpUmBnY1Oi+msPks0sLOFXA72Qxc/wrTWJLtFCcJCX/nCjVBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T22-12-56Z/Mindcrack-0.38.0.dmg" length="7327658" type="application/octet-stream" sparkle:edSignature="ZAtQ4LYwXurTkotmWrEdEZXTVbFnDfeKEYxdFcs2RLNOZcPo5SSN5SQSsmsty5zPWhulGqlrni+uZMCvdIhADA=="/>
         </item>
     </channel>
 </rss>
