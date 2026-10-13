@@ -3,28 +3,30 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.32.2</title>
-            <pubDate>Tue, 13 Oct 2026 00:48:50 +0200</pubDate>
+            <title>0.33.0</title>
+            <pubDate>Tue, 13 Oct 2026 11:42:36 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261012.2248</sparkle:version>
-            <sparkle:shortVersionString>0.32.2</sparkle:shortVersionString>
+            <sparkle:version>20261013.0942</sparkle:version>
+            <sparkle:shortVersionString>0.33.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.32.2</h2>
-<p>10 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.33.0</h2>
+<p>12 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Leitfaden: Eintragen ist nicht Erledigen</li>
-<li>next: Prioritaet, dann der aelteste zuerst</li>
-<li>Alle Projekte fuehrt auf dasselbe Backlog wie die Seitenleiste</li>
-<li>Offene und geschlossene Staende kommen aus Status statt aus sechs SQL-Listen</li>
-<li>Alles zaehlt die gelistete Menge statt einer zweiten Abfrage</li>
-<li>Spaltenleser melden eine fehlende Spalte statt still leer zu liefern</li>
-<li>Toten Code entfernt: altes Detail-Schubfach, vier ungenutzte Store-Felder, drei Kernfunktionen ohne Aufrufer</li>
-<li>Ohne Projekt hat eine Route statt zwei Schreibweisen</li>
-<li>Nachladen rechnet Fakten nur fuer die sichtbaren Listen und kennt den Datenstand nach dem Oeffnen</li>
-<li>Fassung 0.32.2</li>
+<li>Release schreibt den Leitfaden mit der frisch abgelegten CLI neu</li>
+<li>Verlauf lässt sich leeren und zeigt Ortszeit</li>
+<li>Prüfwege: ein triage-Zweig, Folgen, Bild auch beim Fehlschlag</li>
+<li>Zurück und Vor merken Ort und Auswahl</li>
+<li>Suche zeigt den Treffer im Titel und im Text, nie den Index-Rohtext</li>
+<li>Archiv ohne Projektzeichen je Zeile, Fristen nur an offenen Posten</li>
+<li>Verlauf spricht mit denselben Wörtern wie die Eintragsseite</li>
+<li>Toast bietet den nächsten Schritt an</li>
+<li>Shell und Karten nach dem Haus-Bauplan: Fuge 4, Flächenradius 12</li>
+<li>Offene Pläne mit nächstem Schritt in next und context</li>
+<li>Seite „Pläne“: Roadmap je Bereich, lose Posten in Pläne packen</li>
+<li>Fassung 0.33.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-12T22-48-43Z/Mindcrack-0.32.2.dmg" length="6795854" type="application/octet-stream" sparkle:edSignature="yzkKEtE3Mt9E1xsRx2H0uthn0EbCuSq9xRek15nTTLaMzeQcu4c8eIbp86J9ZkOBfv0cNfmxI79+h9Y0Mdq9AA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T09-42-27Z/Mindcrack-0.33.0.dmg" length="6970955" type="application/octet-stream" sparkle:edSignature="Jk/t7de6Jm2BU3RwcPrMXlVa7gAgqFpXaeouE9e5EeckBO2ONldtzgtBitVtsOw+IZl/nVBB9DtOp5VP/2lzAg=="/>
         </item>
     </channel>
 </rss>
