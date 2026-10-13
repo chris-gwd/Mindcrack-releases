@@ -3,22 +3,27 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.35.0</title>
-            <pubDate>Tue, 13 Oct 2026 13:27:45 +0200</pubDate>
+            <title>0.36.0</title>
+            <pubDate>Tue, 13 Oct 2026 17:38:31 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261013.1127</sparkle:version>
-            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
+            <sparkle:version>20261013.1538</sparkle:version>
+            <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.35.0</h2>
-<p>4 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.36.0</h2>
+<p>9 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Ein Posten nennt den Plan, in dem er steht</li>
-<li>Leitfaden erklärt Pläne und nennt die MCP-Werkzeuge</li>
-<li>Offene Plan-Schritte nennen fehlende Prüfung, Auslöser und Undo</li>
-<li>Fassung 0.35.0</li>
+<li>Eintragsseite: Spalten mit fester Breitenregel, Karte mit eigener Höhe</li>
+<li>Die Eintragsseite zeigt den Plan, in dem ein Posten steht</li>
+<li>Plan-Karte: Nachbar-Zeilen sind Knöpfe</li>
+<li>Liste und Brett zeigen, in welchem Plan ein Posten steht</li>
+<li>Plan-Schritt ausserhalb der Reihe braucht einen Grund</li>
+<li>Buendel-Vorschlag fuer lose Posten eines Projekts</li>
+<li>Naechster Plan-Schritt ueberspringt einen blockierten Vorgaenger</li>
+<li>Ausliefern eines gebauten Plan-Schritts braucht keinen zweiten Grund</li>
+<li>Fassung 0.36.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T11-27-38Z/Mindcrack-0.35.0.dmg" length="7016793" type="application/octet-stream" sparkle:edSignature="L0NYQx9R3OKwAlbK9fUx0F5f4egUXYgAbzZksk7cg5mVLbMYZQKTlgYOFCFYjuvwp9S0jofhtBT8asDrAhsmBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T15-38-21Z/Mindcrack-0.36.0.dmg" length="7186172" type="application/octet-stream" sparkle:edSignature="UZwBNMNnh+YAdufOY30Kh3C1zwkDuOLxHYHFWUpUmBnY1Oi+msPks0sLOFXA72Qxc/wrTWJLtFCcJCX/nCjVBg=="/>
         </item>
     </channel>
 </rss>
