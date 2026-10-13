@@ -3,22 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.34.0</title>
-            <pubDate>Tue, 13 Oct 2026 12:49:27 +0200</pubDate>
+            <title>0.35.0</title>
+            <pubDate>Tue, 13 Oct 2026 13:27:45 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261013.1049</sparkle:version>
-            <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
+            <sparkle:version>20261013.1127</sparkle:version>
+            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.34.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.35.0</h2>
 <p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>next liest auf Wunsch nur lesend</li>
-<li>Fertige Pläne verlassen die Liste und gehen ins Archiv</li>
-<li>Bedienelemente mit Doppelkante und einem Radius</li>
-<li>Fassung 0.34.0</li>
+<li>Ein Posten nennt den Plan, in dem er steht</li>
+<li>Leitfaden erklärt Pläne und nennt die MCP-Werkzeuge</li>
+<li>Offene Plan-Schritte nennen fehlende Prüfung, Auslöser und Undo</li>
+<li>Fassung 0.35.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T10-49-20Z/Mindcrack-0.34.0.dmg" length="7002282" type="application/octet-stream" sparkle:edSignature="D/uPZCu/k1SWoHZvdwwSVtwfllWXsJ228o/Z8qu8WrspXrI1nE6lDvV47rr/NEXtKa4v+ucB4sM9ghwlkDdyCA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T11-27-38Z/Mindcrack-0.35.0.dmg" length="7016793" type="application/octet-stream" sparkle:edSignature="L0NYQx9R3OKwAlbK9fUx0F5f4egUXYgAbzZksk7cg5mVLbMYZQKTlgYOFCFYjuvwp9S0jofhtBT8asDrAhsmBg=="/>
         </item>
     </channel>
 </rss>
