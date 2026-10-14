@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.47.0</title>
-            <pubDate>Wed, 14 Oct 2026 22:23:32 +0200</pubDate>
+            <title>0.48.0</title>
+            <pubDate>Wed, 14 Oct 2026 22:57:33 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261014.2023</sparkle:version>
-            <sparkle:shortVersionString>0.47.0</sparkle:shortVersionString>
+            <sparkle:version>20261014.2057</sparkle:version>
+            <sparkle:shortVersionString>0.48.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.47.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.48.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Brett ohne Seitwärts-Rollen: Spalten falten, Platzhalter beim Ziehen</li>
-<li>Fassung 0.47.0</li>
+<li>Dateien: die Datei als Zeile, woran sie hängt als Kennung</li>
+<li>Fassung 0.48.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-14T20-23-26Z/Mindcrack-0.47.0.dmg" length="7624688" type="application/octet-stream" sparkle:edSignature="AeXaQFaAMrSZphShPOWsDjcGBZuYby0RDW0BNBW887aLOop4ITgMhE+pFMvco+s2Y5+8nJTr+6xpuuXk3JrnBA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-14T20-57-27Z/Mindcrack-0.48.0.dmg" length="7697549" type="application/octet-stream" sparkle:edSignature="3bCBaYUGXV1/o5vQrMRgIHHvZykgKFIwJxlA95JkietJ6cwhEBNCT4vuGAIrSFfEI6KkIIoG29JZ3ILf+nzfCA=="/>
         </item>
     </channel>
 </rss>
