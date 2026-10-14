@@ -3,21 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.39.0</title>
-            <pubDate>Wed, 14 Oct 2026 00:46:56 +0200</pubDate>
+            <title>0.40.0</title>
+            <pubDate>Wed, 14 Oct 2026 11:55:22 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261013.2246</sparkle:version>
-            <sparkle:shortVersionString>0.39.0</sparkle:shortVersionString>
+            <sparkle:version>20261014.0955</sparkle:version>
+            <sparkle:shortVersionString>0.40.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.39.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.40.0</h2>
 <p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Backlog-Kopf in einer Zeile</li>
-<li>Backlog-Zeile mit einer Farbe</li>
-<li>Fassung 0.39.0</li>
+<li>Brainvomit nur mit Gruppenbaum</li>
+<li>atlas update prueft zuerst, ob dieser Mac veroeffentlichen kann</li>
+<li>Fassung 0.40.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-13T22-46-48Z/Mindcrack-0.39.0.dmg" length="7353065" type="application/octet-stream" sparkle:edSignature="UTi1Qmbue/lGcy7KHAeLIXr/cGppCiTjXfvGd7eq4Cz4NmeSnRLvjj+4+7FA4dlSKnoJeinhqECZarQI//VBBw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-14T09-55-14Z/Mindcrack-0.40.0.dmg" length="7333801" type="application/octet-stream" sparkle:edSignature="//hPb8LhnAquh04nt/Z5gVhm2LKJamd8UJr6BGqeE91gSGoLX23JFbvI2RNylANUbcRJi5KVhfuJSej+NeqPAw=="/>
         </item>
     </channel>
 </rss>
