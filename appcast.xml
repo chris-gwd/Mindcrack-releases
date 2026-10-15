@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.50.0</title>
-            <pubDate>Thu, 15 Oct 2026 02:51:30 +0200</pubDate>
+            <title>0.51.0</title>
+            <pubDate>Thu, 15 Oct 2026 03:36:35 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261015.0051</sparkle:version>
-            <sparkle:shortVersionString>0.50.0</sparkle:shortVersionString>
+            <sparkle:version>20261015.0136</sparkle:version>
+            <sparkle:shortVersionString>0.51.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.50.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.51.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Schrift-Leiter gegen die Hülle gerechnet, Text ohne eigene Deckkraft</li>
-<li>Fassung 0.50.0</li>
+<li>Projekt-Wähler mit der Tastatur: Pfeile markieren, Return wählt</li>
+<li>Fassung 0.51.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T00-51-24Z/Mindcrack-0.50.0.dmg" length="7776219" type="application/octet-stream" sparkle:edSignature="R8Dha8oxWXdUfPlt5HK9QvASd7I31+Zlnjc6Kum1j/NQF0HItOi9O3rL7cpA/t69BbvfWarQ52sKLMTrSqSrAQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T01-36-30Z/Mindcrack-0.51.0.dmg" length="7780232" type="application/octet-stream" sparkle:edSignature="fEv6S7bU5tkI7VXHBEKW29SCK6pHQfYuGp3PK6WFNffKxSGQqLw0A4EDPBjj6jxeeVh6dhiZJBzID3YoE8uYDw=="/>
         </item>
     </channel>
 </rss>
