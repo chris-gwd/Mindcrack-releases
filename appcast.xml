@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.54.0</title>
-            <pubDate>Thu, 15 Oct 2026 11:41:30 +0200</pubDate>
+            <title>0.55.0</title>
+            <pubDate>Thu, 15 Oct 2026 12:27:25 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261015.0941</sparkle:version>
-            <sparkle:shortVersionString>0.54.0</sparkle:shortVersionString>
+            <sparkle:version>20261015.1027</sparkle:version>
+            <sparkle:shortVersionString>0.55.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.54.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.55.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Altes gemeinsames Journal schreibgeschützt: Schreiber daran vorbei scheitern laut</li>
-<li>Fassung 0.54.0</li>
+<li>Projekt-Antworten nennen den Stand im gefragten Projekt</li>
+<li>Fassung 0.55.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T09-41-25Z/Mindcrack-0.54.0.dmg" length="7778584" type="application/octet-stream" sparkle:edSignature="Dy2sB/15/Vfz12Ia8259ZdypwD1H+oEEQ1+RMsnW319iCFU8ErSTAzPiidYFp/jsi/KQeicVkctgLq32NClfBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T10-27-19Z/Mindcrack-0.55.0.dmg" length="7782774" type="application/octet-stream" sparkle:edSignature="3V2yOVr9lCKqDBLb8h32mRFH/aj5mBjqcXbp/TtPIq+QbFM1A0iw7aCeulYmqTdFdHVzwMKZ3QHyR7hED5JMBw=="/>
         </item>
     </channel>
 </rss>
