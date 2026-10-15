@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.59.0</title>
-            <pubDate>Thu, 15 Oct 2026 22:05:37 +0200</pubDate>
+            <title>0.60.0</title>
+            <pubDate>Thu, 15 Oct 2026 22:31:12 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261015.2005</sparkle:version>
-            <sparkle:shortVersionString>0.59.0</sparkle:shortVersionString>
+            <sparkle:version>20261015.2031</sparkle:version>
+            <sparkle:shortVersionString>0.60.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.59.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.60.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Zwei Geräte mit derselben Kennung verlieren keinen Posten mehr</li>
-<li>Fassung 0.59.0</li>
+<li>Eine alte Kennung nennt den eigenen, neu nummerierten Posten</li>
+<li>Fassung 0.60.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T20-05-30Z/Mindcrack-0.59.0.dmg" length="7895114" type="application/octet-stream" sparkle:edSignature="QssQBUBnsTWrQwoSxLIEAVs2XphdxuRGqjpIKdDlPhkJri4+ivMMOJE2Me5qIDPuniA9/xwwwHUtMsY8ms4DCg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T20-31-05Z/Mindcrack-0.60.0.dmg" length="7897541" type="application/octet-stream" sparkle:edSignature="+4pjdas4wd6Dnsa8fjCudJivxbH+3Er2Iud8cmvc2bvXrGBpY+hCu0HuZoCRNkir/lRi0eY7DlKvbo0tKwibCg=="/>
         </item>
     </channel>
 </rss>
