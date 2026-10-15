@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.61.0</title>
-            <pubDate>Thu, 15 Oct 2026 23:12:31 +0200</pubDate>
+            <title>0.62.0</title>
+            <pubDate>Thu, 15 Oct 2026 23:35:57 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261015.2112</sparkle:version>
-            <sparkle:shortVersionString>0.61.0</sparkle:shortVersionString>
+            <sparkle:version>20261015.2135</sparkle:version>
+            <sparkle:shortVersionString>0.62.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.61.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.62.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Sperre wird beim regulaeren Beenden sofort freigegeben</li>
-<li>Fassung 0.61.0</li>
+<li>Ein als unzutreffend geschlossener Vorgänger blockiert seinen Nachfolger nicht mehr</li>
+<li>Fassung 0.62.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T21-12-24Z/Mindcrack-0.61.0.dmg" length="7897651" type="application/octet-stream" sparkle:edSignature="3xi4PNQgUNuXGlkyIldHH4OlRemvsAdAf2Bcu3N+MNpMDFx53ojZJe7cQImisCfPSXAWiAyIbJBe6KH5eGvaBw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T21-35-51Z/Mindcrack-0.62.0.dmg" length="7898790" type="application/octet-stream" sparkle:edSignature="GnQOg8Q+QDqkhY4VRFoQ9TsQv+M5/DGewRnEZSmtpPocCq7KWoUapu/b0cdxsRUizRXbXuqzQguthWrzOOJMAQ=="/>
         </item>
     </channel>
 </rss>
