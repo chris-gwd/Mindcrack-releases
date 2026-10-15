@@ -3,20 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.56.0</title>
-            <pubDate>Thu, 15 Oct 2026 12:57:27 +0200</pubDate>
+            <title>0.57.0</title>
+            <pubDate>Thu, 15 Oct 2026 16:42:23 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261015.1057</sparkle:version>
-            <sparkle:shortVersionString>0.56.0</sparkle:shortVersionString>
+            <sparkle:version>20261015.1442</sparkle:version>
+            <sparkle:shortVersionString>0.57.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.56.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.57.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Projekt löschen archiviert seine Einträge statt sie ins Brainvomit zu kippen</li>
-<li>Fassung 0.56.0</li>
+<li>Prüfläufe holen die App nicht mehr nach vorn und zeigen kein Fenster</li>
+<li>Nachladen in „Alle Projekte" schneller: Erledigt nur zählen, Lage einmal je Ladung</li>
+<li>Fassung 0.57.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T10-57-20Z/Mindcrack-0.56.0.dmg" length="7801336" type="application/octet-stream" sparkle:edSignature="ZuRcy8zxLKALtgPOBzBd4co/p3CyyMe+qDKN7j7gZHqot4heuSFz3iLzcjQEzpeAp1YwcHOix9h9J3w1GfaIBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-15T14-42-16Z/Mindcrack-0.57.0.dmg" length="7806652" type="application/octet-stream" sparkle:edSignature="6XB2HTM8xofodYst2BxMHUACL9h+AQQjIiFNzmMqt5/B2EObhk2YNADiOYZZkHzR/A9zR5K1x3Ko69gYvNA/Dw=="/>
         </item>
     </channel>
 </rss>
