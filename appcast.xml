@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.63.0</title>
-            <pubDate>Fri, 16 Oct 2026 10:28:36 +0200</pubDate>
+            <title>0.64.0</title>
+            <pubDate>Fri, 16 Oct 2026 12:29:07 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261016.0828</sparkle:version>
-            <sparkle:shortVersionString>0.63.0</sparkle:shortVersionString>
+            <sparkle:version>20261016.1029</sparkle:version>
+            <sparkle:shortVersionString>0.64.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.63.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.64.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Projekt-Zugehoerigkeit bei Suche und Aufhalte-Abfragen vereinheitlicht</li>
-<li>Fassung 0.63.0</li>
+<li>Ausschnitt Erledigt in Alle Projekte beschleunigt</li>
+<li>Fassung 0.64.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T08-28-28Z/Mindcrack-0.63.0.dmg" length="7899766" type="application/octet-stream" sparkle:edSignature="vz306GRLeHwA8KyMcwVOQRmf8EobkMfs/ca7qwQYMd80qqGmSONVX05n6OFl0UXpV5fF5E2jmLQ+HE+9aXmDDA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T10-29-01Z/Mindcrack-0.64.0.dmg" length="7915225" type="application/octet-stream" sparkle:edSignature="G2xF58kEsyC6iPcpIknyeDNPTt+Y2mEVWeCZ2BNT/YnzBBqh78pG0pknmafH+GDf89oqSeUgQwYSSi1Harl3Cg=="/>
         </item>
     </channel>
 </rss>
