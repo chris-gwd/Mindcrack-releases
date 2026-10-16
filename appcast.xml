@@ -3,27 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.65.0</title>
-            <pubDate>Fri, 16 Oct 2026 19:45:17 +0200</pubDate>
+            <title>0.66.0</title>
+            <pubDate>Fri, 16 Oct 2026 22:52:58 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261016.1745</sparkle:version>
-            <sparkle:shortVersionString>0.65.0</sparkle:shortVersionString>
+            <sparkle:version>20261016.2052</sparkle:version>
+            <sparkle:shortVersionString>0.66.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.65.0</h2>
-<p>9 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.66.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Lokalen HTTP-Prototyp fuer den Atlas-Dienst ergaenzt</li>
-<li>Atlas-Dienst-Prototyp: TLS und Bearer-Token-Pflicht auf allen Endpunkten</li>
-<li>AtlasServer fuer Linux kreuzkompilierbar machen</li>
-<li>Lesende Fassade kann optional gegen den Atlas-Dienst sprechen</li>
-<li>Atlas-Fassade: Rueckfall auf lokale Ablage bei nicht erreichbarem Dienst</li>
-<li>Taegliche Sicherung der Atlas-Backlog-Datenbank auf der Box</li>
-<li>Atlas-Dienst liefert rohe Entry-Zeilen fuer Backlog/Brainvomit/Plan</li>
-<li>Atlas-Dienst: Schreib-Verben (capture/update/comment/link/subtask) ueber den Box-Dienst</li>
-<li>Fassung 0.65.0</li>
+<li>Ref-Vergabe haertet gegen Counter-Entries-Drift auf einem Speicher</li>
+<li>Fassung 0.66.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T17-45-09Z/Mindcrack-0.65.0.dmg" length="7551400" type="application/octet-stream" sparkle:edSignature="QLlquUm/23jwzhSw8y80m3kREgNhA/cCpPsY85ei9oVu5i0VmaMxzg4kBCtqAGDvhZ/pXe2IL1HSw4nuLgq5Ag=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T20-52-53Z/Mindcrack-0.66.0.dmg" length="7553251" type="application/octet-stream" sparkle:edSignature="FHY+cbMyzvQGrqTSIY8XuSE/OczrTZ2lAjvbNIcpKPAwvOEqUnYo62EHhMP1bLlT7vVWenOgpTbKnZxRpNpmBA=="/>
         </item>
     </channel>
 </rss>
