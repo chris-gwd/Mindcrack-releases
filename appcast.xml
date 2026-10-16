@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.62.1</title>
-            <pubDate>Fri, 16 Oct 2026 09:37:35 +0200</pubDate>
+            <title>0.62.2</title>
+            <pubDate>Fri, 16 Oct 2026 10:05:47 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261016.0737</sparkle:version>
-            <sparkle:shortVersionString>0.62.1</sparkle:shortVersionString>
+            <sparkle:version>20261016.0805</sparkle:version>
+            <sparkle:shortVersionString>0.62.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.62.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.62.2</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Jedes Geraet raeumt nur seine eigenen gerollten Warteschlangen-Archive auf</li>
-<li>Fassung 0.62.1</li>
+<li>atlas replay verweigert sauber statt an fremder Schema-Zeile abzustuerzen</li>
+<li>Fassung 0.62.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T07-37-29Z/Mindcrack-0.62.1.dmg" length="7898630" type="application/octet-stream" sparkle:edSignature="Fcd+gHihx9hNjE8NIkwN+Vym75BJkNQq1nQSoY/JcbD3P88UlCW/v6Dv9ScQnfWeQ3PeTRBUrugc35sAWuyNBQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T08-05-42Z/Mindcrack-0.62.2.dmg" length="7900156" type="application/octet-stream" sparkle:edSignature="q7u7enoYtr3rd0N05iOI4nQmN7spLEAnZ61GYR4hHZUdqf8ipv4s+JkulVZJ0ePhqzfQwH8ZqKYUZDTISLK5BA=="/>
         </item>
     </channel>
 </rss>
