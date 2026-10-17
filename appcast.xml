@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.69.0</title>
-            <pubDate>Sat, 17 Oct 2026 19:37:33 +0200</pubDate>
+            <title>0.70.0</title>
+            <pubDate>Sun, 18 Oct 2026 00:08:50 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261017.1737</sparkle:version>
-            <sparkle:shortVersionString>0.69.0</sparkle:shortVersionString>
+            <sparkle:version>20261017.2208</sparkle:version>
+            <sparkle:shortVersionString>0.70.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.69.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.70.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Warteschlangen-Austausch: App tauscht im Hintergrund, Lesungen gedrosselt</li>
-<li>Fassung 0.69.0</li>
+<li>Verlauf und Matrix laden keine Eintragsliste mehr, die sie nicht zeigen</li>
+<li>Fassung 0.70.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-17T17-37-25Z/Mindcrack-0.69.0.dmg" length="7626082" type="application/octet-stream" sparkle:edSignature="5VcNecSvN7Mfm2yllEcu7yBdButhDSO5QFqJr3I6FRWITXSvW/R0kIZCHQ32Zadq0NQCeUoYJr2lk96S+wCKCw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-17T22-08-44Z/Mindcrack-0.70.0.dmg" length="7626204" type="application/octet-stream" sparkle:edSignature="ZqhDcyMpxgtEJi6UjSx5JVD7bQm/ny+1VoZCF4C8sBmOueCEreRPIl8/3iJgtNf4bKm1QrGGIDYmUvENkI3UBQ=="/>
         </item>
     </channel>
 </rss>
