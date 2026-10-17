@@ -3,20 +3,23 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.67.0</title>
-            <pubDate>Fri, 16 Oct 2026 23:03:30 +0200</pubDate>
+            <title>0.67.1</title>
+            <pubDate>Sat, 17 Oct 2026 10:13:52 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261016.2103</sparkle:version>
-            <sparkle:shortVersionString>0.67.0</sparkle:shortVersionString>
+            <sparkle:version>20261017.0813</sparkle:version>
+            <sparkle:shortVersionString>0.67.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.67.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.67.1</h2>
+<p>5 Änderungen seit der letzten Fassung.</p>
 <ul>
 <li>Fallback-Hinweis zusaetzlich in eine Logdatei schreiben</li>
+<li>Fassung 0.66.0</li>
 <li>Fassung 0.67.0</li>
+<li>atlas show liest Eintraege jetzt auch ueber den Box-Dienst</li>
+<li>Fassung 0.67.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-16T21-03-24Z/Mindcrack-0.67.0.dmg" length="7556636" type="application/octet-stream" sparkle:edSignature="khEEeq/JzfhwFb6IMReLdYGKw3qFBaf+XGal21TmXnmgYIySCLbeqgw63Ral8n1aCKfimdmRXUwBy26MMdyPBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-17T08-13-46Z/Mindcrack-0.67.1.dmg" length="7558086" type="application/octet-stream" sparkle:edSignature="K6Ijcla5c8IQAvCSgd2TIJVrryCAar81KUgubgCeXRvwxoc+PSmpbJ3Ueiq1Og/XsE8PhizJ5jEQL/yzrnzPAw=="/>
         </item>
     </channel>
 </rss>
