@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.68.0</title>
-            <pubDate>Sat, 17 Oct 2026 14:41:25 +0200</pubDate>
+            <title>0.69.0</title>
+            <pubDate>Sat, 17 Oct 2026 19:37:33 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261017.1241</sparkle:version>
-            <sparkle:shortVersionString>0.68.0</sparkle:shortVersionString>
+            <sparkle:version>20261017.1737</sparkle:version>
+            <sparkle:shortVersionString>0.69.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.68.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.69.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Atlas-Dienst nimmt als eigenes Geraet am Warteschlangen-Austausch teil</li>
-<li>Selbsttest bleibt hermetisch, auch wenn das Geraet den Atlas-Dienst nutzt</li>
-<li>Fassung 0.68.0</li>
+<li>Warteschlangen-Austausch: App tauscht im Hintergrund, Lesungen gedrosselt</li>
+<li>Fassung 0.69.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-17T12-41-18Z/Mindcrack-0.68.0.dmg" length="7600308" type="application/octet-stream" sparkle:edSignature="TKwwqf+YstcfWhIAg4wfQpfqeTyQ/op54niihsDdkQ8dIkPraGdl5YKc8PEpxK881ok6CN/LkOu/TyRC9GC9DA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-17T17-37-25Z/Mindcrack-0.69.0.dmg" length="7626082" type="application/octet-stream" sparkle:edSignature="5VcNecSvN7Mfm2yllEcu7yBdButhDSO5QFqJr3I6FRWITXSvW/R0kIZCHQ32Zadq0NQCeUoYJr2lk96S+wCKCw=="/>
         </item>
     </channel>
 </rss>
