@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.72.1</title>
-            <pubDate>Sun, 18 Oct 2026 15:36:21 +0200</pubDate>
+            <title>0.72.2</title>
+            <pubDate>Sun, 18 Oct 2026 17:57:48 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261018.1336</sparkle:version>
-            <sparkle:shortVersionString>0.72.1</sparkle:shortVersionString>
+            <sparkle:version>20261018.1557</sparkle:version>
+            <sparkle:shortVersionString>0.72.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.72.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.72.2</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Pläne: Reiter „Alle“ als Übersicht, Projekt-Reiter mit Kachel in einer Zeile</li>
-<li>Fassung 0.72.1</li>
+<li>Backlog: Arbeitsliste folgt dem Plan, dann der Priorität</li>
+<li>Fassung 0.72.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-18T13-36-15Z/Mindcrack-0.72.1.dmg" length="7936686" type="application/octet-stream" sparkle:edSignature="XStDhEHiBnCmq4+zCO22fLqCzI6Wvu9yNUtaUj/wzILvmY4EiCOJYqmx++0Mtcd0dXP4bYlyGptR8+xJ62EwBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-18T15-57-42Z/Mindcrack-0.72.2.dmg" length="7937503" type="application/octet-stream" sparkle:edSignature="gUAZRT6vVdXhf7YQiiIhhuVsHkznjooj1gytUgqCzdmVZFVk6KF44eCaNdMVAoorio6TJ28bxuktaz1h0olYDg=="/>
         </item>
     </channel>
 </rss>
