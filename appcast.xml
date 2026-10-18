@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.70.1</title>
-            <pubDate>Sun, 18 Oct 2026 10:07:41 +0200</pubDate>
+            <title>0.70.2</title>
+            <pubDate>Sun, 18 Oct 2026 11:04:10 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261018.0807</sparkle:version>
-            <sparkle:shortVersionString>0.70.1</sparkle:shortVersionString>
+            <sparkle:version>20261018.0904</sparkle:version>
+            <sparkle:shortVersionString>0.70.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.70.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.70.2</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>brief und gaps rechnen nicht mehr über den ganzen Bestand</li>
-<li>Fassung 0.70.1</li>
+<li>Gleiche Datei und gleicher Achsenwert zweier Geräte werden beim Einspielen zusammengelegt</li>
+<li>Fassung 0.70.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-18T08-07-35Z/Mindcrack-0.70.1.dmg" length="7638994" type="application/octet-stream" sparkle:edSignature="WOQLXyXhWDDLHPbM9fnFHKRUqZnQK3R/bZEPHAuaxwQJs4J0JxUu/UC/ERwZquJJ5EFGGWmWg/vYd/RuFbDaDg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-18T09-04-01Z/Mindcrack-0.70.2.dmg" length="7675403" type="application/octet-stream" sparkle:edSignature="gPVVm4dxKoZzhZ3Wvmd3A4h6nEuoW0M7iLtFeEPt77NZZBMwgFTJH7TAgZj7mxXS4dPz7u8tiPvj5VDxdbRsCg=="/>
         </item>
     </channel>
 </rss>
