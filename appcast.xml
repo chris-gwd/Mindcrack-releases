@@ -3,20 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.78.1</title>
-            <pubDate>Mon, 19 Oct 2026 21:40:12 +0200</pubDate>
+            <title>0.79.0</title>
+            <pubDate>Mon, 19 Oct 2026 22:39:16 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261019.1940</sparkle:version>
-            <sparkle:shortVersionString>0.78.1</sparkle:shortVersionString>
+            <sparkle:version>20261019.2039</sparkle:version>
+            <sparkle:shortVersionString>0.79.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.78.1</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.79.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Testgeräte öffnen unter ihrem Namen; die Sperre gehört dem Namen beim Öffnen</li>
-<li>Fassung 0.78.1</li>
+<li>Stehende Warteschlange sichtbar, iCloud-Platzhalter blockiert das Öffnen nicht mehr</li>
+<li>Zufallstest: triaged_at zählt zu den Spalten ohne Reihenfolge je Feld</li>
+<li>Fassung 0.79.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-19T19-40-07Z/Mindcrack-0.78.1.dmg" length="8016064" type="application/octet-stream" sparkle:edSignature="oqxt7DmjrvfpkL+K5FIjOY1d94AbEv+aPjw2G8Tw7KkKvyz9QBWMhpzrhyngUGoAkEQALQHuLMXMlgAQPhC6Bw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-19T20-39-12Z/Mindcrack-0.79.0.dmg" length="8065944" type="application/octet-stream" sparkle:edSignature="xuyj8ZNmKn3JZAvPRc2sxISIdyCUVo0j4XN9l+pq9roLxgLdko65M8gauYM1PriUxL4jE1XR5jjwVtSY1KTyDw=="/>
         </item>
     </channel>
 </rss>
