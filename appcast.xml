@@ -3,20 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.74.0</title>
-            <pubDate>Mon, 19 Oct 2026 14:25:33 +0200</pubDate>
+            <title>0.75.0</title>
+            <pubDate>Mon, 19 Oct 2026 16:08:22 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261019.1225</sparkle:version>
-            <sparkle:shortVersionString>0.74.0</sparkle:shortVersionString>
+            <sparkle:version>20261019.1408</sparkle:version>
+            <sparkle:shortVersionString>0.75.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.74.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.75.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Austausch nach Dienst-Schreibvorgang, Plan-Rückholung beim Einhängen</li>
-<li>Fassung 0.74.0</li>
+<li>Kommentare ohne Verweise auf Backlog-Posten</li>
+<li>Doppelte Kennungen vergibt das Gerät neu, dem der Posten gehört</li>
+<li>Fassung 0.75.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-19T12-25-27Z/Mindcrack-0.74.0.dmg" length="7964722" type="application/octet-stream" sparkle:edSignature="5InArC4x6boKw2gDXkCrfBuduMDIrz0FREO0QFH+i45utfKeOwDDcZwf9N/yRC3cg0Vfc0tH8DWznGaaTmN0CA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-19T14-08-16Z/Mindcrack-0.75.0.dmg" length="7977627" type="application/octet-stream" sparkle:edSignature="0zH6aOT73BQsRrdcvbKQW8zCB+aubMJ4BZsnZsN1OT/+UT7ADDOPEZFEg0+/mnj8OmlOjDJ/pcjHxIXg7YMPDg=="/>
         </item>
     </channel>
 </rss>
