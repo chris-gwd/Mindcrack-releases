@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.77.0</title>
-            <pubDate>Mon, 19 Oct 2026 17:05:21 +0200</pubDate>
+            <title>0.78.0</title>
+            <pubDate>Mon, 19 Oct 2026 20:58:52 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261019.1505</sparkle:version>
-            <sparkle:shortVersionString>0.77.0</sparkle:shortVersionString>
+            <sparkle:version>20261019.1858</sparkle:version>
+            <sparkle:shortVersionString>0.78.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.77.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.78.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Endgültig löschen schont, was der andere Mac noch braucht</li>
-<li>Fassung 0.77.0</li>
+<li>Zufallstest für den Abgleich; eine vergebene id kommt nie wieder</li>
+<li>Fassung 0.78.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-19T15-05-15Z/Mindcrack-0.77.0.dmg" length="7994341" type="application/octet-stream" sparkle:edSignature="J+CHMfZNEyhfp5rIB7HjBIphAwCatzJho4B3f77+Nam5zKbHk+UDfFqiuuqMsMdLckatLHNMGEATy3HMN9zoDQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-19T18-58-46Z/Mindcrack-0.78.0.dmg" length="8014712" type="application/octet-stream" sparkle:edSignature="7Sh3sJrdHOZ5e2gxWGcp5HJRWzL7/rjOEvFJw8PhEVeVjVQ/NTSbFY9e2+12cNGDDIkEJoQ61VZHEyTIIoxMDQ=="/>
         </item>
     </channel>
 </rss>
