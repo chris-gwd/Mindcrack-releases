@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.79.4</title>
-            <pubDate>Tue, 20 Oct 2026 13:20:42 +0200</pubDate>
+            <title>0.79.5</title>
+            <pubDate>Tue, 20 Oct 2026 16:00:42 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261020.1120</sparkle:version>
-            <sparkle:shortVersionString>0.79.4</sparkle:shortVersionString>
+            <sparkle:version>20261020.1400</sparkle:version>
+            <sparkle:shortVersionString>0.79.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.79.4</h2>
+            <description><![CDATA[<h2>Mindcrack 0.79.5</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Dateipfade aus dem Box-Dienst lokal, Dubletten ohne Füllwörter</li>
-<li>Fassung 0.79.4</li>
+<li>Gegen eine Kopie (ATLAS_DB) gilt service.env nicht</li>
+<li>Fassung 0.79.5</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-20T11-20-37Z/Mindcrack-0.79.4.dmg" length="8104026" type="application/octet-stream" sparkle:edSignature="1mr2apgfHQMxE0cEkG9cXDHHwHLADzr6PSA1FejpzG/l4q+QofR7tS2K1lKGk8H4F8zpRq0ozscXENu5nlJrCA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-20T14-00-36Z/Mindcrack-0.79.5.dmg" length="8107265" type="application/octet-stream" sparkle:edSignature="QzcCtpoFXzq7w3z6v/AiQ8y6PPAxQFhewuRmGZiOEDAY/FWisL2YZ7pww2uf1is1w0mig358xqjhX2tkwA08CA=="/>
         </item>
     </channel>
 </rss>
