@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.83.0</title>
-            <pubDate>Wed, 21 Oct 2026 12:48:43 +0200</pubDate>
+            <title>0.84.0</title>
+            <pubDate>Wed, 21 Oct 2026 17:59:24 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261021.1048</sparkle:version>
-            <sparkle:shortVersionString>0.83.0</sparkle:shortVersionString>
+            <sparkle:version>20261021.1559</sparkle:version>
+            <sparkle:shortVersionString>0.84.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.83.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.84.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Mit Dienst schreibt ein Gerät nichts mehr an der Box vorbei</li>
-<li>Release: ganze Bau-Ausgabe sichern, wenn nichts veröffentlicht wurde</li>
-<li>Fassung 0.83.0</li>
+<li>Atlas-Dienst: ein Token je Gerät, widerrufbar ohne Neustart</li>
+<li>Fassung 0.84.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T10-48-37Z/Mindcrack-0.83.0.dmg" length="8230024" type="application/octet-stream" sparkle:edSignature="EP2jX0Tnr07jNzoZHrsV0rPtu02GZzx3hLiexINm9a7VTo03+Rm1OTtkFFPvydufcjbC0J5RSlOqzup9yoXVDQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T15-59-18Z/Mindcrack-0.84.0.dmg" length="8261065" type="application/octet-stream" sparkle:edSignature="yzu0ILqaCU/0+GyTS4DZepXmFeOk7sD8FSFt/y5nc+HfBV45wM/S+WWA3rhz4uo6qOTvq06GyB9f4tJ5RBnhBA=="/>
         </item>
     </channel>
 </rss>
