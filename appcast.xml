@@ -3,22 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.82.0</title>
-            <pubDate>Wed, 21 Oct 2026 12:14:48 +0200</pubDate>
+            <title>0.83.0</title>
+            <pubDate>Wed, 21 Oct 2026 12:48:43 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261021.1014</sparkle:version>
-            <sparkle:shortVersionString>0.82.0</sparkle:shortVersionString>
+            <sparkle:version>20261021.1048</sparkle:version>
+            <sparkle:shortVersionString>0.83.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.82.0</h2>
-<p>4 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.83.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Selbsttest: zwei Kopien ohne Gruppen-Achse tauschen mit der Box</li>
-<li>Posten in Arbeit sichtbar: wer, seit wann</li>
-<li>In Arbeit auch im Detail: Fuß unter der Heimat-Zeile</li>
-<li>Fassung 0.82.0</li>
+<li>Mit Dienst schreibt ein Gerät nichts mehr an der Box vorbei</li>
+<li>Release: ganze Bau-Ausgabe sichern, wenn nichts veröffentlicht wurde</li>
+<li>Fassung 0.83.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T10-14-42Z/Mindcrack-0.82.0.dmg" length="8232712" type="application/octet-stream" sparkle:edSignature="TqjnzsFShGgF/F/iPSIkIcKVqd8mhrRfea6ug1mmsedbhgaCACNWHpHhfRREEsDL4qbuEkUZGcgtn08a+AKRAg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T10-48-37Z/Mindcrack-0.83.0.dmg" length="8230024" type="application/octet-stream" sparkle:edSignature="EP2jX0Tnr07jNzoZHrsV0rPtu02GZzx3hLiexINm9a7VTo03+Rm1OTtkFFPvydufcjbC0J5RSlOqzup9yoXVDQ=="/>
         </item>
     </channel>
 </rss>
