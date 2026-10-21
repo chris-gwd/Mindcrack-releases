@@ -3,20 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.81.0</title>
-            <pubDate>Wed, 21 Oct 2026 03:35:10 +0200</pubDate>
+            <title>0.82.0</title>
+            <pubDate>Wed, 21 Oct 2026 12:14:48 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261021.0135</sparkle:version>
-            <sparkle:shortVersionString>0.81.0</sparkle:shortVersionString>
+            <sparkle:version>20261021.1014</sparkle:version>
+            <sparkle:shortVersionString>0.82.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.81.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.82.0</h2>
+<p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Projekte, Achsen und Gruppen über die Schreibtür</li>
-<li>Fassung 0.81.0</li>
+<li>Selbsttest: zwei Kopien ohne Gruppen-Achse tauschen mit der Box</li>
+<li>Posten in Arbeit sichtbar: wer, seit wann</li>
+<li>In Arbeit auch im Detail: Fuß unter der Heimat-Zeile</li>
+<li>Fassung 0.82.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T01-35-04Z/Mindcrack-0.81.0.dmg" length="8203388" type="application/octet-stream" sparkle:edSignature="GoHdsQ/J8ij1kfGDfX3nvc+3G5gOadWiEia7q+KF1w57rx7NnsvqPv0upwsNw6qmEc7e/kSXbRSi+hPom5SDAg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T10-14-42Z/Mindcrack-0.82.0.dmg" length="8232712" type="application/octet-stream" sparkle:edSignature="TqjnzsFShGgF/F/iPSIkIcKVqd8mhrRfea6ug1mmsedbhgaCACNWHpHhfRREEsDL4qbuEkUZGcgtn08a+AKRAg=="/>
         </item>
     </channel>
 </rss>
