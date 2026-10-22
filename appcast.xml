@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.88.1</title>
-            <pubDate>Thu, 22 Oct 2026 19:19:09 +0200</pubDate>
+            <title>0.88.2</title>
+            <pubDate>Thu, 22 Oct 2026 19:32:56 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261022.1719</sparkle:version>
-            <sparkle:shortVersionString>0.88.1</sparkle:shortVersionString>
+            <sparkle:version>20261022.1732</sparkle:version>
+            <sparkle:shortVersionString>0.88.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.88.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.88.2</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Planung startet eine Kopie der CLI ausserhalb von iCloud</li>
-<li>Fassung 0.88.1</li>
+<li>Planung lädt zuverlässig und plant sich nie selbst um</li>
+<li>Fassung 0.88.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T17-19-03Z/Mindcrack-0.88.1.dmg" length="8505176" type="application/octet-stream" sparkle:edSignature="sXcHXNPAxJGXjeirH9m2/ZC/yi2+1KNdQjbrS47zitokWZf2FlPcd5oQ8ZLYr6GoNXwVSXppwOEefrw1x4qVBw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T17-32-51Z/Mindcrack-0.88.2.dmg" length="8506279" type="application/octet-stream" sparkle:edSignature="b82OXPLcut/eMWTBXCzfw5xuLDJMI2HTMp4nve13Fz5K7D+gLwu7IhqIual848vzTzoGcYu6U7Pa1REEA/ByCg=="/>
         </item>
     </channel>
 </rss>
