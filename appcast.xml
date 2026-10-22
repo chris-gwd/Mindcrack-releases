@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.91.1</title>
-            <pubDate>Thu, 22 Oct 2026 23:39:58 +0200</pubDate>
+            <title>0.91.2</title>
+            <pubDate>Fri, 23 Oct 2026 01:52:05 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261022.2139</sparkle:version>
-            <sparkle:shortVersionString>0.91.1</sparkle:shortVersionString>
+            <sparkle:version>20261022.2352</sparkle:version>
+            <sparkle:shortVersionString>0.91.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.91.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.91.2</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Name the step in the release confirmation</li>
-<li>Fassung 0.91.1</li>
+<li>Wait a bounded time for an iCloud placeholder before opening the store</li>
+<li>Fassung 0.91.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T21-39-52Z/Mindcrack-0.91.1.dmg" length="12582920" type="application/octet-stream" sparkle:edSignature="UPg2U7Ku7KJCEEHHUvw5/OI+w0sakwdrOw8dOn2e+gVBsx6gJdTbjZ1bqbFBiBLGoBohqIhiTzWQjC0EAe5rAw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T23-52-00Z/Mindcrack-0.91.2.dmg" length="12589359" type="application/octet-stream" sparkle:edSignature="sLYUWej1xvLPIdfwvpoSMYkoF3ibeRflyyVlCmQiWlOmj7dpHYrgdQ7XZxMzVaNRiyV4ybgb/ADJTGpD1O6yAw=="/>
         </item>
     </channel>
 </rss>
