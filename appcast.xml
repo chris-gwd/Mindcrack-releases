@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.89.0</title>
-            <pubDate>Thu, 22 Oct 2026 20:28:45 +0200</pubDate>
+            <title>0.90.0</title>
+            <pubDate>Thu, 22 Oct 2026 22:02:58 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261022.1828</sparkle:version>
-            <sparkle:shortVersionString>0.89.0</sparkle:shortVersionString>
+            <sparkle:version>20261022.2002</sparkle:version>
+            <sparkle:shortVersionString>0.90.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.89.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.90.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>CLI liegt im App-Paket statt im iCloud-Speicher</li>
-<li>Fassung 0.89.0</li>
+<li>Class operations come first in the plan list and close with their last piece</li>
+<li>Fassung 0.90.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T18-28-40Z/Mindcrack-0.89.0.dmg" length="12466850" type="application/octet-stream" sparkle:edSignature="/XeoWTnuA0s4I63XK8rusg1iW7u5UQIkMCmi0uspZC/cyGnTdp2RZH8Y+OuH7QjULrRP0BBHsHk99FBhiMvgBA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T20-02-52Z/Mindcrack-0.90.0.dmg" length="12502301" type="application/octet-stream" sparkle:edSignature="+O+Tv9vxO6iTlaiVJmFUKhwYIOPmgjj43tWfrAWY7uJIORGcrO07iszc2/eUcTcHzsNgYjY5v2WfTZqkiKQiCQ=="/>
         </item>
     </channel>
 </rss>
