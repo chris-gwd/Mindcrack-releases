@@ -3,20 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.85.0</title>
-            <pubDate>Wed, 21 Oct 2026 20:30:59 +0200</pubDate>
+            <title>0.86.0</title>
+            <pubDate>Thu, 22 Oct 2026 12:14:27 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261021.1830</sparkle:version>
-            <sparkle:shortVersionString>0.85.0</sparkle:shortVersionString>
+            <sparkle:version>20261022.1014</sparkle:version>
+            <sparkle:shortVersionString>0.86.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.85.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.86.0</h2>
+<p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Drosselung der Box als solche melden statt als Ausfall</li>
-<li>Fassung 0.85.0</li>
+<li>Geräte ohne SSH anbinden: Rolle nach Ablageort, Einmal-Code, Aussperren</li>
+<li>App: mit einer Box verbinden per Link, Geräte-Karte für Verwalter</li>
+<li>CLI: atlas geraete (liste, neu, sperren) und atlas verbinden</li>
+<li>Fassung 0.86.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-21T18-30-53Z/Mindcrack-0.85.0.dmg" length="8268028" type="application/octet-stream" sparkle:edSignature="VJ2bThx4VJH81NfOcTNkhm3PDLLZY6n0yye6sXcmg5OVNv0ussQpKfWCBGqtRQa2lidjDTpI/GNoU2DwGywCAA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T10-14-23Z/Mindcrack-0.86.0.dmg" length="8449504" type="application/octet-stream" sparkle:edSignature="LTMhOUKI3mxP3SxwmxbDHOCh1GxKwu1GbD1LZIPOsu0aZ8nkfLC0C3Sxly5Ei/Qmf+M2UTCXDxgTYuQKU2rGDw=="/>
         </item>
     </channel>
 </rss>
