@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.90.0</title>
-            <pubDate>Thu, 22 Oct 2026 22:02:58 +0200</pubDate>
+            <title>0.90.1</title>
+            <pubDate>Thu, 22 Oct 2026 22:14:47 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261022.2002</sparkle:version>
-            <sparkle:shortVersionString>0.90.0</sparkle:shortVersionString>
+            <sparkle:version>20261022.2014</sparkle:version>
+            <sparkle:shortVersionString>0.90.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.90.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.90.1</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Class operations come first in the plan list and close with their last piece</li>
-<li>Fassung 0.90.0</li>
+<li>Name the plan that holds the work and the order the roadmap lists</li>
+<li>Fassung 0.90.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T20-02-52Z/Mindcrack-0.90.0.dmg" length="12502301" type="application/octet-stream" sparkle:edSignature="+O+Tv9vxO6iTlaiVJmFUKhwYIOPmgjj43tWfrAWY7uJIORGcrO07iszc2/eUcTcHzsNgYjY5v2WfTZqkiKQiCQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T20-14-41Z/Mindcrack-0.90.1.dmg" length="12502381" type="application/octet-stream" sparkle:edSignature="7fa80KK3wluL8iZX8TvEbgnwjmMPuqSTC/awG1nSfZ747HmFtF5hw9/ASik3fLMMD7KFEGHcq/grv8o1H/ItCQ=="/>
         </item>
     </channel>
 </rss>
