@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.86.2</title>
-            <pubDate>Thu, 22 Oct 2026 12:39:35 +0200</pubDate>
+            <title>0.87.0</title>
+            <pubDate>Thu, 22 Oct 2026 17:44:26 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261022.1039</sparkle:version>
-            <sparkle:shortVersionString>0.86.2</sparkle:shortVersionString>
+            <sparkle:version>20261022.1544</sparkle:version>
+            <sparkle:shortVersionString>0.87.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.86.2</h2>
+            <description><![CDATA[<h2>Mindcrack 0.87.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Ein geöffneter Verbindungslink erscheint auch auf einem verbundenen Gerät</li>
-<li>Fassung 0.86.2</li>
+<li>Box liefert ihren ganzen Stand als Abzug</li>
+<li>Fassung 0.87.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T10-39-30Z/Mindcrack-0.86.2.dmg" length="8457861" type="application/octet-stream" sparkle:edSignature="0Y+U9qo7OW+Wx7e2plBZKO1/F6WVHVmzf5+lzQ9K08m7xdI4t0FDUznCwbDNUtuzL+X7Zk3/TXZMAFXxr+Z/AQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-22T15-44-21Z/Mindcrack-0.87.0.dmg" length="8474244" type="application/octet-stream" sparkle:edSignature="f11V3etxrFzUCCr/yDSQN7+GEVxYIlGo7aC+12701olft4xbmiQYA4eET0PTH5WYwDLyrkQtMLmRCp6NKlMgDA=="/>
         </item>
     </channel>
 </rss>
