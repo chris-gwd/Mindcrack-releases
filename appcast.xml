@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.92.0</title>
-            <pubDate>Fri, 23 Oct 2026 10:47:35 +0200</pubDate>
+            <title>0.93.0</title>
+            <pubDate>Fri, 23 Oct 2026 11:52:09 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261023.0847</sparkle:version>
-            <sparkle:shortVersionString>0.92.0</sparkle:shortVersionString>
+            <sparkle:version>20261023.0952</sparkle:version>
+            <sparkle:shortVersionString>0.93.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.92.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.93.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Work on a local copy of the box instead of the iCloud store</li>
-<li>Fassung 0.92.0</li>
+<li>Remove the local copy when the box refuses the token; name its age offline</li>
+<li>Fassung 0.93.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-23T08-47-30Z/Mindcrack-0.92.0.dmg" length="12622058" type="application/octet-stream" sparkle:edSignature="tTdSuup0yTiitOYOJk3clFTaP4apRzOoblDVvpVC8NRVbc0EyOO8uqxFYaTgNYeETxcQ4rhJpRo17zRzYQ12CQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-23T09-52-03Z/Mindcrack-0.93.0.dmg" length="12656257" type="application/octet-stream" sparkle:edSignature="yt3aU8yvr8Ov7KJcX8gyCrxas1nVpBTdTmqmQsU217Ulbco7i82jHnTQD+6H0VodvCJ8V3Rg25XyaVwEa7yIAQ=="/>
         </item>
     </channel>
 </rss>
