@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.94.1</title>
-            <pubDate>Fri, 23 Oct 2026 12:33:29 +0200</pubDate>
+            <title>0.95.0</title>
+            <pubDate>Fri, 23 Oct 2026 12:51:42 +0200</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261023.1033</sparkle:version>
-            <sparkle:shortVersionString>0.94.1</sparkle:shortVersionString>
+            <sparkle:version>20261023.1051</sparkle:version>
+            <sparkle:shortVersionString>0.95.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.94.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.95.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Name the written entry when the result cannot be shown</li>
-<li>Fassung 0.94.1</li>
+<li>Keep attachment files on the box</li>
+<li>Fassung 0.95.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-23T10-33-25Z/Mindcrack-0.94.1.dmg" length="12678176" type="application/octet-stream" sparkle:edSignature="3R0hBCXZOEcgxJi8N7SjweMEv24aTHOfpprzMh4Pl6bCIQBu+4einqBANuK2kYJ6vR0lL5c/Q3iie4NS98SgCg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-23T10-51-36Z/Mindcrack-0.95.0.dmg" length="12756687" type="application/octet-stream" sparkle:edSignature="DGUEEGVmndmhAs8pImzmDf4Ap9AtfxkaBlT+qxdN3VEEht8ey4GzwDjbsTjy4BtZAMiBXCb7GLZjeTKHwGmjDA=="/>
         </item>
     </channel>
 </rss>
