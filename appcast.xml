@@ -3,24 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.102.0</title>
-            <pubDate>Sun, 25 Oct 2026 20:50:32 +0100</pubDate>
+            <title>0.102.1</title>
+            <pubDate>Sun, 25 Oct 2026 21:14:48 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261025.1950</sparkle:version>
-            <sparkle:shortVersionString>0.102.0</sparkle:shortVersionString>
+            <sparkle:version>20261025.2014</sparkle:version>
+            <sparkle:shortVersionString>0.102.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.102.0</h2>
-<p>6 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.102.1</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Drop the last shared-folder paths from the CLI and build script</li>
-<li>Describe today's write path in two CLI comments</li>
-<li>Let the brand generator run again</li>
-<li>Give each installation on a Mac its own box files</li>
-<li>Open the copy of the box right after connecting</li>
-<li>Fassung 0.102.0</li>
+<li>Shorten only this Mac's owner in the activity list</li>
+<li>Use a neutral name in two device-name comments</li>
+<li>Fassung 0.102.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T19-50-27Z/Mindcrack-0.102.0.dmg" length="12759311" type="application/octet-stream" sparkle:edSignature="s5GA1QwIIyj1oyJWZMXK3DK/SN+FJoQ2atHHW42hVu4Tv8qccwaMSAB1m99JpavbiJSkBWn4o0fiBJZbsELEDQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T20-14-41Z/Mindcrack-0.102.1.dmg" length="12762694" type="application/octet-stream" sparkle:edSignature="ndUiGt06CorK7Nfv1PbFeITcx/j5/ApL+Oz2X/3l4IawkD7UEIGma2EnngpIPn/5hSPV6rxAkETM5DNojY5DDw=="/>
         </item>
     </channel>
 </rss>
