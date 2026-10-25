@@ -3,20 +3,29 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.96.1</title>
-            <pubDate>Sun, 25 Oct 2026 09:50:53 +0100</pubDate>
+            <title>0.97.0</title>
+            <pubDate>Sun, 25 Oct 2026 13:35:44 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261025.0850</sparkle:version>
-            <sparkle:shortVersionString>0.96.1</sparkle:shortVersionString>
+            <sparkle:version>20261025.1235</sparkle:version>
+            <sparkle:shortVersionString>0.97.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.96.1</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.97.0</h2>
+<p>11 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Name the path once when a cloud folder is refused</li>
-<li>Fassung 0.96.1</li>
+<li>Move the self-test note to its target</li>
+<li>Describe devices behind the box in Store comments</li>
+<li>Say what the storage picker accepts</li>
+<li>Drop the shared-folder picture from the core</li>
+<li>Say which calls ask the box and how refs settle</li>
+<li>Describe queues and journals without a shared folder</li>
+<li>Say when another device's write arrives here</li>
+<li>Describe the sync probes without the iCloud store</li>
+<li>Name everything the service gate covers</li>
+<li>Count plan steps in every project they reach, by their stand there</li>
+<li>Fassung 0.97.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T08-50-46Z/Mindcrack-0.96.1.dmg" length="12632439" type="application/octet-stream" sparkle:edSignature="um1V30HDP9NpTPmVr28NBjcrdCOIrMg3gTqXNdnmS1LelBltMohS6U5RFI32ic72VAKNFCP5sPL18B8vlHAADw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T12-35-37Z/Mindcrack-0.97.0.dmg" length="12643913" type="application/octet-stream" sparkle:edSignature="PbXAwmHiacR7CdqEZBrfKdyJSp0jwbS3+dGxWovKbnCdPUc9m2DKqMZJ+aHy6uaKzJFKlM9WaRNsRCn9VmkQDQ=="/>
         </item>
     </channel>
 </rss>
