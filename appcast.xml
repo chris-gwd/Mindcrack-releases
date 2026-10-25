@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.102.1</title>
-            <pubDate>Sun, 25 Oct 2026 21:14:48 +0100</pubDate>
+            <title>0.102.2</title>
+            <pubDate>Sun, 25 Oct 2026 22:56:15 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261025.2014</sparkle:version>
-            <sparkle:shortVersionString>0.102.1</sparkle:shortVersionString>
+            <sparkle:version>20261025.2156</sparkle:version>
+            <sparkle:shortVersionString>0.102.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.102.1</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.102.2</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Shorten only this Mac's owner in the activity list</li>
-<li>Use a neutral name in two device-name comments</li>
-<li>Fassung 0.102.1</li>
+<li>Sackgasse nur bei einem Vorgänger, der nie gebaut wird</li>
+<li>Fassung 0.102.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T20-14-41Z/Mindcrack-0.102.1.dmg" length="12762694" type="application/octet-stream" sparkle:edSignature="ndUiGt06CorK7Nfv1PbFeITcx/j5/ApL+Oz2X/3l4IawkD7UEIGma2EnngpIPn/5hSPV6rxAkETM5DNojY5DDw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T21-56-08Z/Mindcrack-0.102.2.dmg" length="12762343" type="application/octet-stream" sparkle:edSignature="1zLVArhzAmov5VdToL0uXOU75zo5rwWFA9BDxD1NDPNy2QqJiQ2V5h2NW9By8H6BkkIKRmYLZWINwXGkQnnwAA=="/>
         </item>
     </channel>
 </rss>
