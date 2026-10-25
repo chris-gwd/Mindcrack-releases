@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.100.0</title>
-            <pubDate>Sun, 25 Oct 2026 15:34:48 +0100</pubDate>
+            <title>0.101.0</title>
+            <pubDate>Sun, 25 Oct 2026 16:18:22 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261025.1434</sparkle:version>
-            <sparkle:shortVersionString>0.100.0</sparkle:shortVersionString>
+            <sparkle:version>20261025.1518</sparkle:version>
+            <sparkle:shortVersionString>0.101.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.100.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.101.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Name the division key before building</li>
-<li>Fassung 0.100.0</li>
+<li>Plans by kind of work, close guard, phase edit, one-write capture</li>
+<li>Fassung 0.101.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T14-34-43Z/Mindcrack-0.100.0.dmg" length="12704982" type="application/octet-stream" sparkle:edSignature="aqRvpKhstcQJ1UTC8TcILeL6IXSxONSslnHrz6xqI6sNREAm/XcZHq67LE1UyZHemN0yj90zTNIJtWrq7XdtDQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T15-18-17Z/Mindcrack-0.101.0.dmg" length="12755474" type="application/octet-stream" sparkle:edSignature="I6saV+9ar1ZTxWYqA/4iVJDH5YPD8ci2TQ76GsBcFX/9dedFRj797BVr4JBypRW0JSJJhKcKS90KmNU24MsBAw=="/>
         </item>
     </channel>
 </rss>
