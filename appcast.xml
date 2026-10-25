@@ -3,23 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.96.0</title>
-            <pubDate>Sun, 25 Oct 2026 09:36:55 +0100</pubDate>
+            <title>0.96.1</title>
+            <pubDate>Sun, 25 Oct 2026 09:50:53 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261025.0836</sparkle:version>
-            <sparkle:shortVersionString>0.96.0</sparkle:shortVersionString>
+            <sparkle:version>20261025.0850</sparkle:version>
+            <sparkle:shortVersionString>0.96.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.96.0</h2>
-<p>5 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.96.1</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Copy attachment files in the box backup without cp -n</li>
-<li>Drop the iCloud storage path and the writer lock</li>
-<li>Describe the WAL copy check without the iCloud store</li>
-<li>Rewrap the WAL copy check comment</li>
-<li>Fassung 0.96.0</li>
+<li>Name the path once when a cloud folder is refused</li>
+<li>Fassung 0.96.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T08-36-49Z/Mindcrack-0.96.0.dmg" length="12632387" type="application/octet-stream" sparkle:edSignature="KbMBaZGAUWel/ccU2I2VXvOW4zuhSoP2F5XJOTCDf0dHTu93NZMrBGrV8B9Ywid4wN36sRTWWHyhrJL69rGkAg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T08-50-46Z/Mindcrack-0.96.1.dmg" length="12632439" type="application/octet-stream" sparkle:edSignature="um1V30HDP9NpTPmVr28NBjcrdCOIrMg3gTqXNdnmS1LelBltMohS6U5RFI32ic72VAKNFCP5sPL18B8vlHAADw=="/>
         </item>
     </channel>
 </rss>
