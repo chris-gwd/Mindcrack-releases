@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.98.0</title>
-            <pubDate>Sun, 25 Oct 2026 14:41:03 +0100</pubDate>
+            <title>0.99.0</title>
+            <pubDate>Sun, 25 Oct 2026 15:07:39 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261025.1340</sparkle:version>
-            <sparkle:shortVersionString>0.98.0</sparkle:shortVersionString>
+            <sparkle:version>20261025.1407</sparkle:version>
+            <sparkle:shortVersionString>0.99.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.98.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.99.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Hand every project the rulebook of its division before it builds</li>
-<li>Fassung 0.98.0</li>
+<li>Give every piece of a class operation its rule, checklist and coverage</li>
+<li>Fassung 0.99.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T13-40-56Z/Mindcrack-0.98.0.dmg" length="12686601" type="application/octet-stream" sparkle:edSignature="rvoBVcV6ZVIHOcJZz56eVC54NxGJE0Q98oVlCoB/aKKQ+HsBK7dDmbMWBiSVX7pwMnD6UWwPpX0eowd38p5oAg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-25T14-07-33Z/Mindcrack-0.99.0.dmg" length="12704267" type="application/octet-stream" sparkle:edSignature="E8C54YbdXWgxd2KZPU3xkKeN77SE+8WsB7mZKjt+UKzLvPp0DFsQ5yGXsz6rL/ODxKRM8n84TKB+C9NQaaLeDA=="/>
         </item>
     </channel>
 </rss>
