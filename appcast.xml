@@ -3,20 +3,23 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.102.5</title>
-            <pubDate>Mon, 26 Oct 2026 12:40:40 +0100</pubDate>
+            <title>0.102.6</title>
+            <pubDate>Mon, 26 Oct 2026 18:00:58 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261026.1140</sparkle:version>
-            <sparkle:shortVersionString>0.102.5</sparkle:shortVersionString>
+            <sparkle:version>20261026.1700</sparkle:version>
+            <sparkle:shortVersionString>0.102.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.102.5</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.102.6</h2>
+<p>5 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Update spielt auch ein, wenn Mindcrack vorne steht und niemand arbeitet</li>
-<li>Fassung 0.102.5</li>
+<li>Einspielen: eine unbekannte Eindeutigkeit bleibt stehen statt still verworfen</li>
+<li>In Arbeit nur bei echter Arbeit: Kanten, Plan-Aufbau, Ansprüche und das Erfassen zählen nicht</li>
+<li>Phase verschieben: an der Kante ein Fehler statt still getan</li>
+<li>Verlauf beschriftet jeden Ereignis-Typ, und jedes Symbol steht in der Liste</li>
+<li>Fassung 0.102.6</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-26T11-40-34Z/Mindcrack-0.102.5.dmg" length="12815562" type="application/octet-stream" sparkle:edSignature="Dr4EcyQZeb43jIpO1YEbNicWV3d9fPboUAO8EpLJou7bI0Xi7OAy9Q4ZDsbuigqneNLUlFmOMvS4GWF0vcEfCw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-26T17-00-53Z/Mindcrack-0.102.6.dmg" length="12838218" type="application/octet-stream" sparkle:edSignature="5gJiiNmo8N0mKN8Hh5qvn/NPi/BPHunFlUuxDCecU9tg3pa6xthyjTLN/q3xx2kUVtv8fIOGltH8bnASJ2A6Bw=="/>
         </item>
     </channel>
 </rss>
