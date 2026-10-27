@@ -3,20 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.106.0</title>
-            <pubDate>Tue, 27 Oct 2026 18:19:24 +0100</pubDate>
+            <title>0.107.0</title>
+            <pubDate>Tue, 27 Oct 2026 19:26:18 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261027.1719</sparkle:version>
-            <sparkle:shortVersionString>0.106.0</sparkle:shortVersionString>
+            <sparkle:version>20261027.1826</sparkle:version>
+            <sparkle:shortVersionString>0.107.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.106.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.107.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Auftrag in der App, Ansage nur für Neues, Detail leiht die Schiene</li>
-<li>Fassung 0.106.0</li>
+<li>Schalter „Nur beobachten“ entfernt: die App gleicht immer ab</li>
+<li>Kommentar zur Pausen-Achse an den Start ohne Schreibschutz angeglichen</li>
+<li>Fassung 0.107.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T17-19-19Z/Mindcrack-0.106.0.dmg" length="14019933" type="application/octet-stream" sparkle:edSignature="aGLKcn0V+oPhumbLgnczFgxmkQEeSGps8lbSTFla4jO8D2LGPxDygI9t7McLCR2z+/igUkC1YFbT7dM5z7K8Bw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T18-26-12Z/Mindcrack-0.107.0.dmg" length="13991627" type="application/octet-stream" sparkle:edSignature="i91VWAxTZPAgjbMk8lkuWqs9GyZXY8md/Cveo1N1/r71zexwySlsmLZsm/taltfZjBfenC+/wLI19Vhcal9tAA=="/>
         </item>
     </channel>
 </rss>
