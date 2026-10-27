@@ -3,21 +3,55 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.107.0</title>
-            <pubDate>Tue, 27 Oct 2026 19:26:18 +0100</pubDate>
+            <title>0.108.0</title>
+            <pubDate>Tue, 27 Oct 2026 22:06:06 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261027.1826</sparkle:version>
-            <sparkle:shortVersionString>0.107.0</sparkle:shortVersionString>
+            <sparkle:version>20261027.2106</sparkle:version>
+            <sparkle:shortVersionString>0.108.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.107.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.108.0</h2>
+<p>37 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Schalter „Nur beobachten“ entfernt: die App gleicht immer ab</li>
-<li>Kommentar zur Pausen-Achse an den Start ohne Schreibschutz angeglichen</li>
-<li>Fassung 0.107.0</li>
+<li>movement() entfernt, Stand-Lesen des Verlaufs in eigener Datei</li>
+<li>order(project:) entfernt: kein Aufrufer außer dem Selbsttest</li>
+<li>SubtaskProgress und PanelClose entfernt (ohne Aufrufer)</li>
+<li>FilterField und FilterList entfernt (ohne Aufrufer seit dem Filter-Panel)</li>
+<li>Umfeld-Suche: leere Variable scope entfernt</li>
+<li>Schema 34: entries.sort_key und view_positions entfernt</li>
+<li>Selbsttest: kein Typ und keine Spalte ohne Nennung im Code</li>
+<li>Selbsttest: Abschnitt zum Lesemodus heisst jetzt „Nur lesend“</li>
+<li>Kommandozeile: Papierkorb, Links, Verwandtschaft lösen, Sparte und Gruppen</li>
+<li>Selbsttest: jede Box-Fähigkeit hat eine Tür in der Kommandozeile</li>
+<li>Kommandozeile: Türen für Papierkorb, Links, Verwandtschaft, Sparte und Gruppen</li>
+<li>Erfassen prüft Link und Frist vor dem ersten Schreiben</li>
+<li>Tote Teile entfernt: Verlaufs-Bewegung, Reihenfolge je Projekt, ungenutzte Bauteile, Schema 34</li>
+<li>Prüf-Schalter wirken nur in einer Prüf-Installation</li>
+<li>Prüf-Schalter nur in einer Prüf-Installation</li>
+<li>Prüf-Haken filterlist entfernt: die Liste, die er öffnete, gibt es nicht mehr</li>
+<li>Box-Dienst: acht Routen ohne Aufrufer entfernt</li>
+<li>Box-Dienst: jede abgewiesene Anfrage steht im Log</li>
+<li>Box-Dienst: Lesen läuft hinter demselben Tor wie Schreiben</li>
+<li>Box-Dienst: eine Fehlerabbildung für alle Routen</li>
+<li>Anbinden sperrt nur die Adresse, die falsch rät</li>
+<li>Die Tür weist falsch getypte Argumente mit dem Feldnamen ab</li>
+<li>Box-Dienst: Warteschlange eines Geräts mit Umlaut im Namen</li>
+<li>Dienst-Client: Kommentare ohne die entfernten Routen</li>
+<li>Selbsttest fährt den Box-Dienst als eigenen Prozess</li>
+<li>Dienst-Client: isForbidden entfernt</li>
+<li>Abgegebene Kennung geht nur an den früher erfassten zurück</li>
+<li>Zufallstest schreibt in jede Tabelle, die er vergleicht</li>
+<li>Selbsttest: ein Wurf ist ein Fehler seines Abschnitts</li>
+<li>Selbsttest prüft Vorab-Nummern, Abschnittsnummern und die Kommandozeile</li>
+<li>Selbsttest baut AtlasServer vor Abschnitt 61 selbst</li>
+<li>Merge: Selbsttest wird bei jedem Fehler rot</li>
+<li>Merge: Box-Dienst läuft im Selbsttest als eigener Prozess</li>
+<li>Ungenutzte Tag-Zuordnung des Imports entfernt, Kommentar zu mergeViews ohne die entfernten Positionen</li>
+<li>Plan-Karte: Phase im Umbauen umbenennen und beschreiben</li>
+<li>Merge: Phase im Umbauen der Plan-Karte umbenennen und beschreiben</li>
+<li>Fassung 0.108.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T18-26-12Z/Mindcrack-0.107.0.dmg" length="13991627" type="application/octet-stream" sparkle:edSignature="i91VWAxTZPAgjbMk8lkuWqs9GyZXY8md/Cveo1N1/r71zexwySlsmLZsm/taltfZjBfenC+/wLI19Vhcal9tAA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T21-06-01Z/Mindcrack-0.108.0.dmg" length="14104493" type="application/octet-stream" sparkle:edSignature="dUPcO3I0S3tWd2B7V7GD52DUmgP8XvVIGQ2Lfj9FWZCx2Y1L1hWw/IsUte6d7UUjo1X6vd272gTPTYQTR8h4BQ=="/>
         </item>
     </channel>
 </rss>
