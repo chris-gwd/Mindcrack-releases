@@ -3,20 +3,28 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.104.0</title>
-            <pubDate>Tue, 27 Oct 2026 01:13:30 +0100</pubDate>
+            <title>0.105.0</title>
+            <pubDate>Tue, 27 Oct 2026 11:39:44 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261027.0013</sparkle:version>
-            <sparkle:shortVersionString>0.104.0</sparkle:shortVersionString>
+            <sparkle:version>20261027.1039</sparkle:version>
+            <sparkle:shortVersionString>0.105.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.104.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.105.0</h2>
+<p>10 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Jetzt: Startfläche mit einer Karte je Projekt</li>
-<li>Fassung 0.104.0</li>
+<li>CLI-Text: brief, next, log, show und purge zeigen, was der Kern liefert</li>
+<li>Export: Art und Arbeitsart nach Schlüssel, jeder gemeldete Posten steht in der Datei</li>
+<li>Alte Ablagen kommen wieder bis zum heutigen Schema</li>
+<li>Vorschau prüft die Adresse, Lizenzen im Bündel, Kommentare ohne Vorgangsnummern</li>
+<li>Eine Reihenfolge für Plan-Fokus, startbar und wartend</li>
+<li>Arbeitsauftrag je Projekt: Arten der Arbeit bis zur Frist</li>
+<li>Entscheiden: eine Fläche für das, was auf dich wartet, mit Antwort an Ort und Stelle</li>
+<li>Navigation: feste Seitenleiste, Ortswahl hinter ⌘K, Erfassen mit eigenem Feld</li>
+<li>Beispiel-Ref und Kommentare ohne Projektschlüssel</li>
+<li>Fassung 0.105.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T00-13-24Z/Mindcrack-0.104.0.dmg" length="13322057" type="application/octet-stream" sparkle:edSignature="8Qz2Egx7lIlaOV5OKLovYcCDZiOMbOS6ZIyWAd3k1RqWduVVE6kLwlE/IgAulnPt8xiztpMCj2jLNe8LKUHyAg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T10-39-39Z/Mindcrack-0.105.0.dmg" length="13978453" type="application/octet-stream" sparkle:edSignature="rQSJAFxh9hvMG/HnLDGD/3k1I7JxIachFcko6NRmbozf8T8r19Cl95ZW0iPVszMAdwvlxoPZFJc2ZQ83gc0dCQ=="/>
         </item>
     </channel>
 </rss>
