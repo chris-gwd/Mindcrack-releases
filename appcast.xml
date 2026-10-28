@@ -3,55 +3,40 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.108.0</title>
-            <pubDate>Tue, 27 Oct 2026 22:06:06 +0100</pubDate>
+            <title>0.109.0</title>
+            <pubDate>Wed, 28 Oct 2026 11:34:39 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261027.2106</sparkle:version>
-            <sparkle:shortVersionString>0.108.0</sparkle:shortVersionString>
+            <sparkle:version>20261028.1034</sparkle:version>
+            <sparkle:shortVersionString>0.109.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.108.0</h2>
-<p>37 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.109.0</h2>
+<p>22 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>movement() entfernt, Stand-Lesen des Verlaufs in eigener Datei</li>
-<li>order(project:) entfernt: kein Aufrufer außer dem Selbsttest</li>
-<li>SubtaskProgress und PanelClose entfernt (ohne Aufrufer)</li>
-<li>FilterField und FilterList entfernt (ohne Aufrufer seit dem Filter-Panel)</li>
-<li>Umfeld-Suche: leere Variable scope entfernt</li>
-<li>Schema 34: entries.sort_key und view_positions entfernt</li>
-<li>Selbsttest: kein Typ und keine Spalte ohne Nennung im Code</li>
-<li>Selbsttest: Abschnitt zum Lesemodus heisst jetzt „Nur lesend“</li>
-<li>Kommandozeile: Papierkorb, Links, Verwandtschaft lösen, Sparte und Gruppen</li>
-<li>Selbsttest: jede Box-Fähigkeit hat eine Tür in der Kommandozeile</li>
-<li>Kommandozeile: Türen für Papierkorb, Links, Verwandtschaft, Sparte und Gruppen</li>
-<li>Erfassen prüft Link und Frist vor dem ersten Schreiben</li>
-<li>Tote Teile entfernt: Verlaufs-Bewegung, Reihenfolge je Projekt, ungenutzte Bauteile, Schema 34</li>
-<li>Prüf-Schalter wirken nur in einer Prüf-Installation</li>
-<li>Prüf-Schalter nur in einer Prüf-Installation</li>
-<li>Prüf-Haken filterlist entfernt: die Liste, die er öffnete, gibt es nicht mehr</li>
-<li>Box-Dienst: acht Routen ohne Aufrufer entfernt</li>
-<li>Box-Dienst: jede abgewiesene Anfrage steht im Log</li>
-<li>Box-Dienst: Lesen läuft hinter demselben Tor wie Schreiben</li>
-<li>Box-Dienst: eine Fehlerabbildung für alle Routen</li>
-<li>Anbinden sperrt nur die Adresse, die falsch rät</li>
-<li>Die Tür weist falsch getypte Argumente mit dem Feldnamen ab</li>
-<li>Box-Dienst: Warteschlange eines Geräts mit Umlaut im Namen</li>
-<li>Dienst-Client: Kommentare ohne die entfernten Routen</li>
-<li>Selbsttest fährt den Box-Dienst als eigenen Prozess</li>
-<li>Dienst-Client: isForbidden entfernt</li>
-<li>Abgegebene Kennung geht nur an den früher erfassten zurück</li>
-<li>Zufallstest schreibt in jede Tabelle, die er vergleicht</li>
-<li>Selbsttest: ein Wurf ist ein Fehler seines Abschnitts</li>
-<li>Selbsttest prüft Vorab-Nummern, Abschnittsnummern und die Kommandozeile</li>
-<li>Selbsttest baut AtlasServer vor Abschnitt 61 selbst</li>
-<li>Merge: Selbsttest wird bei jedem Fehler rot</li>
-<li>Merge: Box-Dienst läuft im Selbsttest als eigener Prozess</li>
-<li>Ungenutzte Tag-Zuordnung des Imports entfernt, Kommentar zu mergeViews ohne die entfernten Positionen</li>
-<li>Plan-Karte: Phase im Umbauen umbenennen und beschreiben</li>
-<li>Merge: Phase im Umbauen der Plan-Karte umbenennen und beschreiben</li>
-<li>Fassung 0.108.0</li>
+<li>Kern weist Eingaben ab, die er bisher still fallen ließ</li>
+<li>Box weist unbekannte Felder und unlesbare Parameter ab</li>
+<li>Kommandozeile weist Optionen ab, die ohne ihren Partner nichts tun</li>
+<li>Selbsttest: jede Eingabe an einer Tür wirkt oder wird abgewiesen</li>
+<li>Box: Meldung bei unlesbarer Antwort verweist auf atlas show</li>
+<li>Merge: Jede Eingabe an einer Tür wirkt oder wird abgewiesen</li>
+<li>Plan-Regel an einer Stelle, kein Plan steht in sich selbst</li>
+<li>Release setzt jeden Posten für sich auf live</li>
+<li>Merge: Eine Regel entscheidet, ob ein Plan-Schritt offen ist</li>
+<li>Release committet nur die Pfade, die sein Plan gezeigt hat</li>
+<li>brief nennt nicht lesbare Teile unter lesefehler</li>
+<li>App zeigt Lesefehler statt Leerzustand</li>
+<li>Selbsttest: Lesefehler stehen als Fehler da, nie als leere Liste</li>
+<li>Merge: Lesefehler erscheinen als Fehlerzustand, nie als leere Liste</li>
+<li>Ein leerer Titel wird auch beim Bearbeiten abgewiesen</li>
+<li>brief --text nennt nicht lesbare Teile; Lücken-Lesung hängt an der Plan-Regel</li>
+<li>Personen an der Box: jeder Mensch schreibt unter seinem Namen</li>
+<li>Einstellungen: Gerät hinzufügen fragt, für wen</li>
+<li>Selbsttest: zwei Compiler-Warnungen im Geräte-Abschnitt beheben</li>
+<li>Verlauf eines Postens nennt, wer es tat</li>
+<li>Merge: Jeder Mensch mit Gerät an der Box schreibt unter seinem Namen</li>
+<li>Fassung 0.109.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-27T21-06-01Z/Mindcrack-0.108.0.dmg" length="14104493" type="application/octet-stream" sparkle:edSignature="dUPcO3I0S3tWd2B7V7GD52DUmgP8XvVIGQ2Lfj9FWZCx2Y1L1hWw/IsUte6d7UUjo1X6vd272gTPTYQTR8h4BQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-28T10-34-34Z/Mindcrack-0.109.0.dmg" length="14314922" type="application/octet-stream" sparkle:edSignature="r7anauyF03yYsXR9r9xGm92Ve7SRkKQnOtuYA77dW7BohT7KyRvVgk+es6Kz8pviWIPNF1AP0ptzhEv2sH85AA=="/>
         </item>
     </channel>
 </rss>
