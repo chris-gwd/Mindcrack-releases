@@ -3,41 +3,30 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.110.0</title>
-            <pubDate>Wed, 28 Oct 2026 17:16:48 +0100</pubDate>
+            <title>0.111.0</title>
+            <pubDate>Wed, 28 Oct 2026 22:37:02 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261028.1616</sparkle:version>
-            <sparkle:shortVersionString>0.110.0</sparkle:shortVersionString>
+            <sparkle:version>20261028.2136</sparkle:version>
+            <sparkle:shortVersionString>0.111.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.110.0</h2>
-<p>23 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.111.0</h2>
+<p>12 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Neue Projekte legen keine Ansichten mehr an</li>
-<li>Personen an der Box ändern, ohne die Box zu betreten</li>
-<li>Person eines Geräts in den Einstellungen ändern</li>
-<li>Merge: Personen an der Box in der App ändern; neue Projekte säen keine Ansichten</li>
-<li>Jetzt zeigt jede Sitzung: woran, in welchem Plan, ob sie arbeitet oder wartet</li>
-<li>Merge: Jetzt zeigt jede Sitzung, woran sie arbeitet und ob sie wartet</li>
-<li>Austausch-Skript des Box-Dienstes ins Repo</li>
-<li>Dienst nennt Fassung, Commit und Schema</li>
-<li>build.sh --box baut den Box-Dienst gestempelt</li>
-<li>Release tauscht den Box-Dienst nach der App</li>
-<li>Selbsttest: Tausch gegen einen lokalen Prüfdienst</li>
-<li>build.sh --box lässt .build/release, wie es war</li>
-<li>Merge: Release tauscht den Box-Dienst nach der App</li>
-<li>Box-Antworten tragen Cache-Control: no-store</li>
-<li>Ablage öffnet trotz gescheiterter Nachtrag-Heilung; lesbarer Grund</li>
-<li>App: Lesefehler an der Stelle der Liste statt im Fenster</li>
-<li>Bündel mit Entwicklungssprache Deutsch</li>
-<li>Plan-Karte: Beschreibung der offenen Phase im Lesen</li>
-<li>Selbsttest: Lesefehler je Teil, lesbarer Grund, Beschreibung im Lesen</li>
-<li>Ablauf: ohne gelesene Liste ein Warnzeichen statt „Ketten 0“</li>
-<li>Merge: Lesefehler an der Stelle der Liste, Beschreibung der offenen Phase im Lesen</li>
-<li>build.sh: Bau-Kennung mit alter Änderungszeit zurücklegen</li>
-<li>Fassung 0.110.0</li>
+<li>Kern-Antworten: Typen für Anhang, Dateien, Löschen und Zustellstand</li>
+<li>Kern-Antworten: Zusammenfassung eines Postens als Typ</li>
+<li>Kern-Antworten: Detail eines Postens als Typ</li>
+<li>Kern-Antworten: Auszug und Sammelauszug als Typ</li>
+<li>Kern-Antworten: Plan-Zeilen, Abdeckung und Kurzzeile als Typ</li>
+<li>Kern-Antworten: next als Typ</li>
+<li>Kern-Antworten: context als Typ, Karte zeigt die offenen Posten</li>
+<li>Kern-Antworten: Echos und Dubletten als Typ, feste Reihenfolge</li>
+<li>Kern-Antworten: schema und Vokabular-Datei als Typ</li>
+<li>Kern-Antworten: Bestand und Sitzungsmeldung als Typ</li>
+<li>Kern-Antworten: Box-Wege und Schreibtür als Typ</li>
+<li>Fassung 0.111.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-28T16-16-42Z/Mindcrack-0.110.0.dmg" length="14673431" type="application/octet-stream" sparkle:edSignature="sWFHa3k1LcRxVXEaIKXxw3R2HRQDuBkGiRAvwIs+gcnKf4LKzjWNaT2MI1Py1LfneMyfAhBIu9/xvqDq7324Dg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-28T21-36-55Z/Mindcrack-0.111.0.dmg" length="16118066" type="application/octet-stream" sparkle:edSignature="Gcq9+rh+7gAwlb7wlrTT1Tz4J4sRZZNhfX90iI0ehE63MmUn7e97S1PaK4Gd75I7Egacud/7PMMvUgCLw5abDQ=="/>
         </item>
     </channel>
 </rss>
