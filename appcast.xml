@@ -3,40 +3,41 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.109.0</title>
-            <pubDate>Wed, 28 Oct 2026 11:34:39 +0100</pubDate>
+            <title>0.110.0</title>
+            <pubDate>Wed, 28 Oct 2026 17:16:48 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261028.1034</sparkle:version>
-            <sparkle:shortVersionString>0.109.0</sparkle:shortVersionString>
+            <sparkle:version>20261028.1616</sparkle:version>
+            <sparkle:shortVersionString>0.110.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.109.0</h2>
-<p>22 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.110.0</h2>
+<p>23 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Kern weist Eingaben ab, die er bisher still fallen ließ</li>
-<li>Box weist unbekannte Felder und unlesbare Parameter ab</li>
-<li>Kommandozeile weist Optionen ab, die ohne ihren Partner nichts tun</li>
-<li>Selbsttest: jede Eingabe an einer Tür wirkt oder wird abgewiesen</li>
-<li>Box: Meldung bei unlesbarer Antwort verweist auf atlas show</li>
-<li>Merge: Jede Eingabe an einer Tür wirkt oder wird abgewiesen</li>
-<li>Plan-Regel an einer Stelle, kein Plan steht in sich selbst</li>
-<li>Release setzt jeden Posten für sich auf live</li>
-<li>Merge: Eine Regel entscheidet, ob ein Plan-Schritt offen ist</li>
-<li>Release committet nur die Pfade, die sein Plan gezeigt hat</li>
-<li>brief nennt nicht lesbare Teile unter lesefehler</li>
-<li>App zeigt Lesefehler statt Leerzustand</li>
-<li>Selbsttest: Lesefehler stehen als Fehler da, nie als leere Liste</li>
-<li>Merge: Lesefehler erscheinen als Fehlerzustand, nie als leere Liste</li>
-<li>Ein leerer Titel wird auch beim Bearbeiten abgewiesen</li>
-<li>brief --text nennt nicht lesbare Teile; Lücken-Lesung hängt an der Plan-Regel</li>
-<li>Personen an der Box: jeder Mensch schreibt unter seinem Namen</li>
-<li>Einstellungen: Gerät hinzufügen fragt, für wen</li>
-<li>Selbsttest: zwei Compiler-Warnungen im Geräte-Abschnitt beheben</li>
-<li>Verlauf eines Postens nennt, wer es tat</li>
-<li>Merge: Jeder Mensch mit Gerät an der Box schreibt unter seinem Namen</li>
-<li>Fassung 0.109.0</li>
+<li>Neue Projekte legen keine Ansichten mehr an</li>
+<li>Personen an der Box ändern, ohne die Box zu betreten</li>
+<li>Person eines Geräts in den Einstellungen ändern</li>
+<li>Merge: Personen an der Box in der App ändern; neue Projekte säen keine Ansichten</li>
+<li>Jetzt zeigt jede Sitzung: woran, in welchem Plan, ob sie arbeitet oder wartet</li>
+<li>Merge: Jetzt zeigt jede Sitzung, woran sie arbeitet und ob sie wartet</li>
+<li>Austausch-Skript des Box-Dienstes ins Repo</li>
+<li>Dienst nennt Fassung, Commit und Schema</li>
+<li>build.sh --box baut den Box-Dienst gestempelt</li>
+<li>Release tauscht den Box-Dienst nach der App</li>
+<li>Selbsttest: Tausch gegen einen lokalen Prüfdienst</li>
+<li>build.sh --box lässt .build/release, wie es war</li>
+<li>Merge: Release tauscht den Box-Dienst nach der App</li>
+<li>Box-Antworten tragen Cache-Control: no-store</li>
+<li>Ablage öffnet trotz gescheiterter Nachtrag-Heilung; lesbarer Grund</li>
+<li>App: Lesefehler an der Stelle der Liste statt im Fenster</li>
+<li>Bündel mit Entwicklungssprache Deutsch</li>
+<li>Plan-Karte: Beschreibung der offenen Phase im Lesen</li>
+<li>Selbsttest: Lesefehler je Teil, lesbarer Grund, Beschreibung im Lesen</li>
+<li>Ablauf: ohne gelesene Liste ein Warnzeichen statt „Ketten 0“</li>
+<li>Merge: Lesefehler an der Stelle der Liste, Beschreibung der offenen Phase im Lesen</li>
+<li>build.sh: Bau-Kennung mit alter Änderungszeit zurücklegen</li>
+<li>Fassung 0.110.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-28T10-34-34Z/Mindcrack-0.109.0.dmg" length="14314922" type="application/octet-stream" sparkle:edSignature="r7anauyF03yYsXR9r9xGm92Ve7SRkKQnOtuYA77dW7BohT7KyRvVgk+es6Kz8pviWIPNF1AP0ptzhEv2sH85AA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-28T16-16-42Z/Mindcrack-0.110.0.dmg" length="14673431" type="application/octet-stream" sparkle:edSignature="sWFHa3k1LcRxVXEaIKXxw3R2HRQDuBkGiRAvwIs+gcnKf4LKzjWNaT2MI1Py1LfneMyfAhBIu9/xvqDq7324Dg=="/>
         </item>
     </channel>
 </rss>
