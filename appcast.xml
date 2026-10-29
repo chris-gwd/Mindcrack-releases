@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.112.0</title>
-            <pubDate>Thu, 29 Oct 2026 09:48:22 +0100</pubDate>
+            <title>0.113.0</title>
+            <pubDate>Thu, 29 Oct 2026 11:16:22 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261029.0848</sparkle:version>
-            <sparkle:shortVersionString>0.112.0</sparkle:shortVersionString>
+            <sparkle:version>20261029.1016</sparkle:version>
+            <sparkle:shortVersionString>0.113.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.112.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.113.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Schreibverben: je Aufruf ein Schreibvorgang</li>
-<li>Fassung 0.112.0</li>
+<li>Komponente als Strang: Sperre für genannte Apps, Strang, Komponenten-Karte</li>
+<li>Fassung 0.113.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-29T08-48-15Z/Mindcrack-0.112.0.dmg" length="17135064" type="application/octet-stream" sparkle:edSignature="yCGJ8oiHuWwiFrMNww/tUHKvPQjMv/FGJJU7s3qpbYKYyNiKyRknpkK6w79mKik0z0ZaYM0UrovbreaycFmxBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-29T10-16-17Z/Mindcrack-0.113.0.dmg" length="17553422" type="application/octet-stream" sparkle:edSignature="fOMvdVOEFZc/imkys/135ZV3qwPN7cZgPzSWwOvDFo1t7STj7JMn1zkZLygO+miuyqly9kuHz7ZcwvsSdJ73Bw=="/>
         </item>
     </channel>
 </rss>
