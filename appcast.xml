@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.119.2</title>
-            <pubDate>Fri, 30 Oct 2026 23:45:08 +0100</pubDate>
+            <title>0.119.3</title>
+            <pubDate>Sat, 31 Oct 2026 00:33:51 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261030.2245</sparkle:version>
-            <sparkle:shortVersionString>0.119.2</sparkle:shortVersionString>
+            <sparkle:version>20261030.2333</sparkle:version>
+            <sparkle:shortVersionString>0.119.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.119.2</h2>
+            <description><![CDATA[<h2>Mindcrack 0.119.3</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Ähnlich in anderen Apps: Treffer nur über den Text brauchen die höhere Schwelle</li>
-<li>Fassung 0.119.2</li>
+<li>Suchindex: gelöschte Posten nehmen ihre Suchzeile mit</li>
+<li>Fassung 0.119.3</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-30T22-45-01Z/Mindcrack-0.119.2.dmg" length="17714625" type="application/octet-stream" sparkle:edSignature="iXFOc0NqRXbYscSueqd10yt+E+uZZ/0AxyyaIUOwFbg2Xrp4lFE59uYBca+J6883j7UUZ5vJlzZt5s5Mp/FIDQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-30T23-33-46Z/Mindcrack-0.119.3.dmg" length="17716210" type="application/octet-stream" sparkle:edSignature="UQut5ijDo6qx94U33p6iSlcNMzTzwir6DEzZUYMc1TFY2mKbCKFpDC/DKn9uliWl4qpYWk/OjLMS0PEUl/j7CA=="/>
         </item>
     </channel>
 </rss>
