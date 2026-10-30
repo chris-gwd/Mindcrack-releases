@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.115.0</title>
-            <pubDate>Fri, 30 Oct 2026 11:14:45 +0100</pubDate>
+            <title>0.116.0</title>
+            <pubDate>Fri, 30 Oct 2026 16:37:51 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261030.1014</sparkle:version>
-            <sparkle:shortVersionString>0.115.0</sparkle:shortVersionString>
+            <sparkle:version>20261030.1537</sparkle:version>
+            <sparkle:shortVersionString>0.116.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.115.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.116.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Grund aus dem jüngsten Ereignis lesen, doppelten Prüf-Hook entfernen</li>
-<li>Fassung 0.115.0</li>
+<li>Ähnliche Posten beim Erfassen aus allen Apps, Fund als Reichweite</li>
+<li>Fassung 0.116.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-30T10-14-38Z/Mindcrack-0.115.0.dmg" length="17611207" type="application/octet-stream" sparkle:edSignature="Xhrv5GRQj+K7OA3IqQzucY/zbsYq3VT+Gj899iOp8bOlptG0LXB+Qg0WuUNJLR0InE+icx2+ihS3DHe8aUTnBQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-30T15-37-44Z/Mindcrack-0.116.0.dmg" length="17613117" type="application/octet-stream" sparkle:edSignature="9Xah03M7zYB/qhUyB1I0kFcEi03WP+RE1o3EdH8u3woWmOrrRo9pdQvjwkzAwE72EQjA8nFaV9Ayxe9+FWF8AQ=="/>
         </item>
     </channel>
 </rss>
