@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.119.1</title>
-            <pubDate>Fri, 30 Oct 2026 23:12:40 +0100</pubDate>
+            <title>0.119.2</title>
+            <pubDate>Fri, 30 Oct 2026 23:45:08 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261030.2212</sparkle:version>
-            <sparkle:shortVersionString>0.119.1</sparkle:shortVersionString>
+            <sparkle:version>20261030.2245</sparkle:version>
+            <sparkle:shortVersionString>0.119.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.119.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.119.2</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Filterleiste bleibt bei offenen Erfassen-Karten stehen</li>
-<li>Fassung 0.119.1</li>
+<li>Ähnlich in anderen Apps: Treffer nur über den Text brauchen die höhere Schwelle</li>
+<li>Fassung 0.119.2</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-30T22-12-34Z/Mindcrack-0.119.1.dmg" length="17714237" type="application/octet-stream" sparkle:edSignature="1VosPCDLYIan0mEHM1cLqyBbTllnEDuULmjuet6sg4bYh5FUrINM/vXZ3gEGEizmz7WBiyJ7zOmGrHpU6l4mCA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-30T22-45-01Z/Mindcrack-0.119.2.dmg" length="17714625" type="application/octet-stream" sparkle:edSignature="iXFOc0NqRXbYscSueqd10yt+E+uZZ/0AxyyaIUOwFbg2Xrp4lFE59uYBca+J6883j7UUZ5vJlzZt5s5Mp/FIDQ=="/>
         </item>
     </channel>
 </rss>
