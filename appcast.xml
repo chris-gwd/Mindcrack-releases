@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.119.5</title>
-            <pubDate>Sat, 31 Oct 2026 11:03:50 +0100</pubDate>
+            <title>0.119.6</title>
+            <pubDate>Sat, 31 Oct 2026 11:39:56 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261031.1003</sparkle:version>
-            <sparkle:shortVersionString>0.119.5</sparkle:shortVersionString>
+            <sparkle:version>20261031.1039</sparkle:version>
+            <sparkle:shortVersionString>0.119.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.119.5</h2>
+            <description><![CDATA[<h2>Mindcrack 0.119.6</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Leitfaden nennt das Stapel-Werkzeug für viele Schreibvorgänge</li>
-<li>Fassung 0.119.5</li>
+<li>Repo-Pfad auf dem Gerät prüfen, nicht auf der Box</li>
+<li>Fassung 0.119.6</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T10-03-43Z/Mindcrack-0.119.5.dmg" length="17727042" type="application/octet-stream" sparkle:edSignature="TmZveXC+CL8weRxnyQ6+D0CVfr1fn5kdTu0pTICa6LAj6k3dBTDYN7sMqtEMWS/tKqOX1k4pn7GxetpSzte7CQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T10-39-50Z/Mindcrack-0.119.6.dmg" length="17736960" type="application/octet-stream" sparkle:edSignature="k8/mhhJaF+9uid8An0E+FguwKJZLonZ3cOBbUGp2LK2cjKZULSBW0u94mOjphelnb5P9o9FuuzlKgx9Jo5awCg=="/>
         </item>
     </channel>
 </rss>
