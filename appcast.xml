@@ -3,20 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.119.7</title>
-            <pubDate>Sat, 31 Oct 2026 12:06:32 +0100</pubDate>
+            <title>0.119.9</title>
+            <pubDate>Sat, 31 Oct 2026 12:44:41 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261031.1106</sparkle:version>
-            <sparkle:shortVersionString>0.119.7</sparkle:shortVersionString>
+            <sparkle:version>20261031.1144</sparkle:version>
+            <sparkle:shortVersionString>0.119.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.119.7</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.119.9</h2>
+<p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>doctor prüft die Kopplung von Ablage und Warteschlangen</li>
-<li>Fassung 0.119.7</li>
+<li>Filter-Chips aus dem Gesetzten, Suche nur dort, wo sie wirkt</li>
+<li>Fassung 0.119.8</li>
+<li>Symbol des Filter-Chips aus einer eigenen Funktion</li>
+<li>Fassung 0.119.9</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T11-06-25Z/Mindcrack-0.119.7.dmg" length="17772563" type="application/octet-stream" sparkle:edSignature="s6mAYMKyOqgqnGRnThwbKzfWwvxe4WnR5q5AUqlCNxSxkZ1t3Qt4gEsc2ZkQ3b6RwP6OhfZL4n4oSqneCuXEDw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T11-44-34Z/Mindcrack-0.119.9.dmg" length="17787761" type="application/octet-stream" sparkle:edSignature="dMbPcu3x0X3eVWH5BiTOXtla/WPwEUzdbzbWJAXqzMBmf3UmNWa3Pj+siwxqwFkfYDWP465a0IBcNBzp+4KYAw=="/>
         </item>
     </channel>
 </rss>
