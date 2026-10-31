@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.119.6</title>
-            <pubDate>Sat, 31 Oct 2026 11:39:56 +0100</pubDate>
+            <title>0.119.7</title>
+            <pubDate>Sat, 31 Oct 2026 12:06:32 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261031.1039</sparkle:version>
-            <sparkle:shortVersionString>0.119.6</sparkle:shortVersionString>
+            <sparkle:version>20261031.1106</sparkle:version>
+            <sparkle:shortVersionString>0.119.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.119.6</h2>
+            <description><![CDATA[<h2>Mindcrack 0.119.7</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Repo-Pfad auf dem Gerät prüfen, nicht auf der Box</li>
-<li>Fassung 0.119.6</li>
+<li>doctor prüft die Kopplung von Ablage und Warteschlangen</li>
+<li>Fassung 0.119.7</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T10-39-50Z/Mindcrack-0.119.6.dmg" length="17736960" type="application/octet-stream" sparkle:edSignature="k8/mhhJaF+9uid8An0E+FguwKJZLonZ3cOBbUGp2LK2cjKZULSBW0u94mOjphelnb5P9o9FuuzlKgx9Jo5awCg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T11-06-25Z/Mindcrack-0.119.7.dmg" length="17772563" type="application/octet-stream" sparkle:edSignature="s6mAYMKyOqgqnGRnThwbKzfWwvxe4WnR5q5AUqlCNxSxkZ1t3Qt4gEsc2ZkQ3b6RwP6OhfZL4n4oSqneCuXEDw=="/>
         </item>
     </channel>
 </rss>
