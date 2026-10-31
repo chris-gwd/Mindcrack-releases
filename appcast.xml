@@ -3,22 +3,24 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.119.9</title>
-            <pubDate>Sat, 31 Oct 2026 12:44:41 +0100</pubDate>
+            <title>0.119.10</title>
+            <pubDate>Sat, 31 Oct 2026 14:37:32 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261031.1144</sparkle:version>
-            <sparkle:shortVersionString>0.119.9</sparkle:shortVersionString>
+            <sparkle:version>20261031.1337</sparkle:version>
+            <sparkle:shortVersionString>0.119.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.119.9</h2>
-<p>4 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.119.10</h2>
+<p>6 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Filter-Chips aus dem Gesetzten, Suche nur dort, wo sie wirkt</li>
-<li>Fassung 0.119.8</li>
-<li>Symbol des Filter-Chips aus einer eigenen Funktion</li>
-<li>Fassung 0.119.9</li>
+<li>Zwei Werte ohne Leser entfernt</li>
+<li>Lesepfad über die Box: next, gaps und search rechnet die Box, jede Antwort nennt die rechnende Fassung</li>
+<li>Zahlen und Vokabular-Bezüge aus je einer Quelle</li>
+<li>Release und Selbsttest über Exit-Codes statt über Ausgabetext</li>
+<li>Einzelreparaturen: Achsen-Absage, unbekannter Stand, Vokabel-Import, ATLAS_DB, Update-Wartezeit</li>
+<li>Fassung 0.119.10</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T11-44-34Z/Mindcrack-0.119.9.dmg" length="17787761" type="application/octet-stream" sparkle:edSignature="dMbPcu3x0X3eVWH5BiTOXtla/WPwEUzdbzbWJAXqzMBmf3UmNWa3Pj+siwxqwFkfYDWP465a0IBcNBzp+4KYAw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T13-37-25Z/Mindcrack-0.119.10.dmg" length="17884337" type="application/octet-stream" sparkle:edSignature="sY2BZX1c/Y6+NEMiUdAaouRwSKvJOM2EOmqx0FPVn62gbKjRYbpoQPVLP6vPJxrwDskNn1LKKN+1MNQWUSSZAw=="/>
         </item>
     </channel>
 </rss>
