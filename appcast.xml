@@ -3,24 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.121.0</title>
-            <pubDate>Sat, 31 Oct 2026 23:20:17 +0100</pubDate>
+            <title>0.122.0</title>
+            <pubDate>Sun, 01 Nov 2026 12:28:42 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261031.2220</sparkle:version>
-            <sparkle:shortVersionString>0.121.0</sparkle:shortVersionString>
+            <sparkle:version>20261101.1128</sparkle:version>
+            <sparkle:shortVersionString>0.122.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.121.0</h2>
-<p>6 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.122.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Projekt-Zugehörigkeit überall über projectClause</li>
-<li>Symbol und Ton eines Achsenwerts aus der Ablage</li>
-<li>Rang-Regeln am Feld statt am Schlüssel</li>
-<li>Selbsttest für Rollen am Wert, Ideen-Segment meldet seinen Lesefehler</li>
-<li>Fassung 0.121.0</li>
-<li>Achswert-Symbol über eine Zwischenvariable lesen</li>
+<li>Checklisten-Zeile als Kommentar-Art statt Marke im Text</li>
+<li>Warteschlangen-Austausch holt fremde Dateien in Stücken</li>
+<li>Fassung 0.122.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-10-31T22-20-11Z/Mindcrack-0.121.0.dmg" length="17903311" type="application/octet-stream" sparkle:edSignature="mPJWVhXTL+0CL3CfSiYFsnPyWmF65LT3pzuaH5gi+0zYihdN3zgrVF/b9BtojjKk5rtZxNl+cDalVookkJy3CQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-01T11-28-36Z/Mindcrack-0.122.0.dmg" length="17913038" type="application/octet-stream" sparkle:edSignature="IwznbCYw6M3s4k/wbUvaSuoELfHZlJI+c6TiBmKJ0ft3YOt+Lku1N4W9VyZ+E/UfpoghY1M2iaqTarkydNi1Bw=="/>
         </item>
     </channel>
 </rss>
