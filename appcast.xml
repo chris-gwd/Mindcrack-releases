@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.123.0</title>
-            <pubDate>Sun, 01 Nov 2026 13:16:57 +0100</pubDate>
+            <title>0.124.0</title>
+            <pubDate>Sun, 01 Nov 2026 15:11:01 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261101.1216</sparkle:version>
-            <sparkle:shortVersionString>0.123.0</sparkle:shortVersionString>
+            <sparkle:version>20261101.1410</sparkle:version>
+            <sparkle:shortVersionString>0.124.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.123.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.124.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Box-Sicherung räumt Anhänge ab, die keine behaltene Sicherung mehr nennt</li>
-<li>Archivierte Doppel der Gruppen-Achse fallen mit Schema 40</li>
-<li>Fassung 0.123.0</li>
+<li>Wert-Blatt: Symbol, Farbe und Rolle eines Werts in der App setzen</li>
+<li>Fassung 0.124.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-01T12-16-51Z/Mindcrack-0.123.0.dmg" length="17915066" type="application/octet-stream" sparkle:edSignature="Pr9tlDCnzlxIIDEvVkxMFYbw7+06SerPGaqq9OfRr8rpeFSbPP0FvRi/9Cai4U8LPADjrakO+GLxkhhqKWkWCQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-01T14-10-55Z/Mindcrack-0.124.0.dmg" length="17956832" type="application/octet-stream" sparkle:edSignature="DzRssnfRM6ysp2rJuVLbXXj04g6v4TjD26TWvSTYUMVwhrAc8vsCjHktIz+8BZqB1Y0Z7Jt6KWIfy3flG0QhDQ=="/>
         </item>
     </channel>
 </rss>
