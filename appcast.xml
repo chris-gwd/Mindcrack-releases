@@ -3,20 +3,19 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.124.0</title>
-            <pubDate>Sun, 01 Nov 2026 15:11:01 +0100</pubDate>
+            <title>0.125.0</title>
+            <pubDate>Sun, 01 Nov 2026 16:12:33 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261101.1410</sparkle:version>
-            <sparkle:shortVersionString>0.124.0</sparkle:shortVersionString>
+            <sparkle:version>20261101.1512</sparkle:version>
+            <sparkle:shortVersionString>0.125.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.124.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.125.0</h2>
+<p>1 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Wert-Blatt: Symbol, Farbe und Rolle eines Werts in der App setzen</li>
-<li>Fassung 0.124.0</li>
+<li>Box: Sicherungs-Skript und Cron-Datei über den Tausch ausliefern</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-01T14-10-55Z/Mindcrack-0.124.0.dmg" length="17956832" type="application/octet-stream" sparkle:edSignature="DzRssnfRM6ysp2rJuVLbXXj04g6v4TjD26TWvSTYUMVwhrAc8vsCjHktIz+8BZqB1Y0Z7Jt6KWIfy3flG0QhDQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-01T15-12-28Z/Mindcrack-0.125.0.dmg" length="17965618" type="application/octet-stream" sparkle:edSignature="MNRKxK1UKNt0YeTWpjRURh08dnrUCVBjwym2+gBKpUczYjNl1tkjduusYVeeaoNKAq4Tb57E+UwcfnDNxU41Cw=="/>
         </item>
     </channel>
 </rss>
