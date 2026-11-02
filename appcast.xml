@@ -3,19 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.125.1</title>
-            <pubDate>Sun, 01 Nov 2026 19:25:31 +0100</pubDate>
+            <title>0.126.0</title>
+            <pubDate>Mon, 02 Nov 2026 01:07:01 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261101.1825</sparkle:version>
-            <sparkle:shortVersionString>0.125.1</sparkle:shortVersionString>
+            <sparkle:version>20261102.0006</sparkle:version>
+            <sparkle:shortVersionString>0.126.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.125.1</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.126.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Vokabular-Import kleidet vorhandene Werte ohne Symbol, Farbe oder Rolle</li>
+<li>Agenten-Fläche: laufende Claude-Code-Sitzungen live verfolgen</li>
+<li>Fassung 0.126.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-01T18-25-26Z/Mindcrack-0.125.1.dmg" length="17971998" type="application/octet-stream" sparkle:edSignature="LiU+C3IHLRQ9fwTgYrUD6n0VFHfyzxVA//Qx3sLwyObyOw4lXj6mhjuNfOoj4tdJQ9UaYcRoTgusGQC1ZOUwCg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T00-06-55Z/Mindcrack-0.126.0.dmg" length="18324038" type="application/octet-stream" sparkle:edSignature="rx4mmG72xcOaeDv+vvYek5W/CMi1hIVbgJ9Q/vSyg6x5B4ezaBT+dbeYLEpU7tMV+lI9jwQZvhu77Kfrm2sDAg=="/>
         </item>
     </channel>
 </rss>
