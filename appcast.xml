@@ -3,25 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.130.0</title>
-            <pubDate>Mon, 02 Nov 2026 15:51:15 +0100</pubDate>
+            <title>0.131.0</title>
+            <pubDate>Mon, 02 Nov 2026 20:02:47 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261102.1451</sparkle:version>
-            <sparkle:shortVersionString>0.130.0</sparkle:shortVersionString>
+            <sparkle:version>20261102.1902</sparkle:version>
+            <sparkle:shortVersionString>0.131.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.130.0</h2>
-<p>7 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.131.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Detail: Links-Karte und Ideen-Weichen aus dem Lesestrang der Posten entfernt</li>
-<li>Entscheiden: Karte der unklaren Pausen nennt die Zahl nur am Kopf</li>
-<li>Einstellungen: Kommentar zur Fassung ohne den entfernten Quellordner</li>
-<li>Leitstand: Phasenzeile der Flotte aus derselben Formel wie die Bahnen</li>
-<li>Agenten: Etiketten der Karte nie bis zur leeren Kapsel gestaucht</li>
-<li>Agenten: Abo-Fenster statt Tagesdecke des Läufers</li>
-<li>Fassung 0.130.0</li>
+<li>Capture: say where a finding belongs and which apps share it</li>
+<li>Fassung 0.131.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T14-51-08Z/Mindcrack-0.130.0.dmg" length="18775352" type="application/octet-stream" sparkle:edSignature="y46x9//THIa/yyesWlx5Tbk6NNZI4Xf7202NEFnFRr3v5dV4UdwgziDekDe3jM0nwCyEsL/utPNrAMFxwsiaBw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T19-02-40Z/Mindcrack-0.131.0.dmg" length="18812305" type="application/octet-stream" sparkle:edSignature="v9acJ/6uZO34cAe32dS22VTJIXRzsv7S9zoHtple+bJq+0+/tFMa0+zPOHx6drL57axKotNX194wmmS/WQw0Cw=="/>
         </item>
     </channel>
 </rss>
