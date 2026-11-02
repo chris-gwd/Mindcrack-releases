@@ -3,48 +3,25 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.129.0</title>
-            <pubDate>Mon, 02 Nov 2026 14:48:38 +0100</pubDate>
+            <title>0.130.0</title>
+            <pubDate>Mon, 02 Nov 2026 15:51:15 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261102.1348</sparkle:version>
-            <sparkle:shortVersionString>0.129.0</sparkle:shortVersionString>
+            <sparkle:version>20261102.1451</sparkle:version>
+            <sparkle:shortVersionString>0.130.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.129.0</h2>
-<p>30 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.130.0</h2>
+<p>7 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Bestand per Alltagswort lesen</li>
-<li>Release tauscht die Box vor dem Einbau der App</li>
-<li>Prüfläufe strecken Bewegungen, Verlauf nach der Zeit</li>
-<li>Backlog-Zeile hält die Höhe der Status-Pille</li>
-<li>Seitenleiste blendet Zähler und Spinner ein und aus</li>
-<li>Jetzt: Warte-Zahl als Element, Sitzung ohne Satz zeigt den letzten Posten, keine Kein-Plan-Pille</li>
-<li>Entscheiden: Pausen ohne doppelte Warte-Pille, Unklar-Karte ohne Erklärsatz</li>
-<li>Pläne: Phase nicht ein drittes Mal in der Nächstes-Zeile, keine 0/0 am leeren Plan</li>
-<li>Leerzustände ohne Erklärsätze, die Titel oder Knopf wiederholen; Dateien bekommen den Erfassen-Knopf</li>
-<li>Einstellungen: Mitteilungs-Hinweis knapp, der Knopf daneben sagt den Weg</li>
-<li>Lesepfade fragen die Box über eine gemeinsame Funktion</li>
-<li>Stand-Tor für ganzen Posten und einzelnes Projekt geteilt</li>
-<li>atlas update startet Befehle über denselben Läufer wie atlas box</li>
-<li>Kommentare nennen das Warum statt der Vorgeschichte</li>
-<li>Agenten: Reiter je Gerät, eine Spalte, Karte aus Elementen</li>
-<li>Belegzeile wird an einer Stelle geschrieben</li>
-<li>Verlauf grenzt Projekte an einer Stelle ein</li>
-<li>Beschreibung der offenen Pläne steht wieder an plans()</li>
-<li>Lange Kommentare auf Regel und Grund gekürzt, ohne Messprotokolle</li>
-<li>Jetzt: keine Lücke unter der Plan-Tür, Zustand nicht doppelt in der Sitzungszeile</li>
-<li>Erfassen: Links ohne Erklärsatz, mehrere Adressen zeigen sich als Zähl-Pille</li>
-<li>Laden: Stillstand als laufende Zahl bis zum Abbruch statt als Satz</li>
-<li>Detail: Typ ohne Gruppe als leerer Wert, durchgehender Posten als Pille statt Satz</li>
-<li>Ablage: Archiv-Leiste nennt die Zahl einmal, der Knopf das Verb</li>
-<li>Kommentare: Warum statt Vorgeschichte</li>
-<li>Entscheiden: Karte der unklaren Pausen mit kurzem Titel</li>
-<li>Einstellungen: alte Box als Pille in der Geräte-Karte statt als Satz</li>
-<li>Kommentare: ohne Messprotokolle, Matrix-Abfrage richtig benannt</li>
-<li>Agenten: Verbrauch je Sitzung und Tagesausgabe des Läufers</li>
-<li>Fassung 0.129.0</li>
+<li>Detail: Links-Karte und Ideen-Weichen aus dem Lesestrang der Posten entfernt</li>
+<li>Entscheiden: Karte der unklaren Pausen nennt die Zahl nur am Kopf</li>
+<li>Einstellungen: Kommentar zur Fassung ohne den entfernten Quellordner</li>
+<li>Leitstand: Phasenzeile der Flotte aus derselben Formel wie die Bahnen</li>
+<li>Agenten: Etiketten der Karte nie bis zur leeren Kapsel gestaucht</li>
+<li>Agenten: Abo-Fenster statt Tagesdecke des Läufers</li>
+<li>Fassung 0.130.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T13-48-31Z/Mindcrack-0.129.0.dmg" length="18667060" type="application/octet-stream" sparkle:edSignature="OW7L0cKoKUqJrCzx8J2P2Oii69q7J+V2G2YHtaGLWGL2NCwqsxI707oRL/49B4N2jSk9R+ct2MnKSkBkJI95Cw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T14-51-08Z/Mindcrack-0.130.0.dmg" length="18775352" type="application/octet-stream" sparkle:edSignature="y46x9//THIa/yyesWlx5Tbk6NNZI4Xf7202NEFnFRr3v5dV4UdwgziDekDe3jM0nwCyEsL/utPNrAMFxwsiaBw=="/>
         </item>
     </channel>
 </rss>
