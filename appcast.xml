@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.132.0</title>
-            <pubDate>Mon, 02 Nov 2026 20:59:14 +0100</pubDate>
+            <title>0.133.0</title>
+            <pubDate>Mon, 02 Nov 2026 21:23:30 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261102.1959</sparkle:version>
-            <sparkle:shortVersionString>0.132.0</sparkle:shortVersionString>
+            <sparkle:version>20261102.2023</sparkle:version>
+            <sparkle:shortVersionString>0.133.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.132.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.133.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Capture: name a failing lookup instead of failing the capture</li>
-<li>Postpone: hold a step out of next until its day</li>
-<li>Fassung 0.132.0</li>
+<li>Brief: carry the wait day through encode and decode</li>
+<li>Fassung 0.133.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T19-59-07Z/Mindcrack-0.132.0.dmg" length="18842535" type="application/octet-stream" sparkle:edSignature="gWjO7YQTfxsO4wnIn3oiiOpVjtcAVFuyp1P7KgcH2AGJ6J+soDBgq+YG6g7GgoyXFQ8p/pNhhZSUEAyXrzRCCQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T20-23-23Z/Mindcrack-0.133.0.dmg" length="18843499" type="application/octet-stream" sparkle:edSignature="tS/nHWXROGWAH8nVuZ5n79a/xSxuJKjVdWJ7kCLN1TUzKkcA3t6ZdKG8Ev/V5WYFZcxh2rF/fNHIlcy156AtCw=="/>
         </item>
     </channel>
 </rss>
