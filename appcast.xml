@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.126.0</title>
-            <pubDate>Mon, 02 Nov 2026 01:07:01 +0100</pubDate>
+            <title>0.126.1</title>
+            <pubDate>Mon, 02 Nov 2026 01:51:27 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261102.0006</sparkle:version>
-            <sparkle:shortVersionString>0.126.0</sparkle:shortVersionString>
+            <sparkle:version>20261102.0051</sparkle:version>
+            <sparkle:shortVersionString>0.126.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.126.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.126.1</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Agenten-Fläche: laufende Claude-Code-Sitzungen live verfolgen</li>
-<li>Fassung 0.126.0</li>
+<li>Agenten-Karten springen nicht mehr bei jedem Schritt einer Sitzung</li>
+<li>Fassung 0.126.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T00-06-55Z/Mindcrack-0.126.0.dmg" length="18324038" type="application/octet-stream" sparkle:edSignature="rx4mmG72xcOaeDv+vvYek5W/CMi1hIVbgJ9Q/vSyg6x5B4ezaBT+dbeYLEpU7tMV+lI9jwQZvhu77Kfrm2sDAg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-02T00-51-20Z/Mindcrack-0.126.1.dmg" length="18322517" type="application/octet-stream" sparkle:edSignature="GM/SnJSvvM42dwdnDZ0My0vGw+/c7AmV9u60ZEth9ZcmjH8IEeIbQBtERmlyUTwmiIyltGnxlywnmSrfQNIrDg=="/>
         </item>
     </channel>
 </rss>
