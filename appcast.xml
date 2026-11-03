@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.135.0</title>
-            <pubDate>Tue, 03 Nov 2026 14:27:29 +0100</pubDate>
+            <title>0.136.0</title>
+            <pubDate>Tue, 03 Nov 2026 14:56:24 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261103.1327</sparkle:version>
-            <sparkle:shortVersionString>0.135.0</sparkle:shortVersionString>
+            <sparkle:version>20261103.1356</sparkle:version>
+            <sparkle:shortVersionString>0.136.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.135.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.136.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Neutral colours from the house source, held by the self test</li>
-<li>Shell of the house: sidebar on the ground, header and workspace as one card</li>
-<li>Fassung 0.135.0</li>
+<li>Surfaces carry the hue of the Mindcrack mark again</li>
+<li>Fassung 0.136.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-03T13-27-22Z/Mindcrack-0.135.0.dmg" length="18863742" type="application/octet-stream" sparkle:edSignature="Aepvca4+Q9uqmiFKJGUZKIRiSxO5bYG5+Sg7oaMDjEtR3Ka9DlNFsBW5YNPHUaotpjWsMXKh1ps19TQVexIIAw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-03T13-56-17Z/Mindcrack-0.136.0.dmg" length="18857443" type="application/octet-stream" sparkle:edSignature="ADSN3+9+2HPcrrbiLny4c72tMi7U8CGQJO0iqxMXk5SFTuQ6+vQqXe7pncI7/hnjNtSo6ZmzoygQuZE/clN8Ag=="/>
         </item>
     </channel>
 </rss>
