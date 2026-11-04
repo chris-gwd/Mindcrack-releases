@@ -3,23 +3,30 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.137.0</title>
-            <pubDate>Tue, 03 Nov 2026 17:40:18 +0100</pubDate>
+            <title>0.138.0</title>
+            <pubDate>Wed, 04 Nov 2026 12:31:55 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261103.1640</sparkle:version>
-            <sparkle:shortVersionString>0.137.0</sparkle:shortVersionString>
+            <sparkle:version>20261104.1131</sparkle:version>
+            <sparkle:shortVersionString>0.138.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.137.0</h2>
-<p>5 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.138.0</h2>
+<p>12 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Split large source files by responsibility; build without warnings</li>
-<li>Split the self-test into files by topic</li>
-<li>Agents: show the runner's tick, who started a session, running helpers</li>
-<li>Draw states and chart series from the platform's colour tokens</li>
-<li>Fassung 0.137.0</li>
+<li>Lists: status pill only where it differs, one page footer</li>
+<li>Entry page: side columns run to the card edge</li>
+<li>Segmented control: a track of its own, chosen tile stands off it</li>
+<li>Settings: a search above the cards</li>
+<li>Required sign, focus ring and flat card take house tokens</li>
+<li>Search field binds a query, so the update guard sees a search</li>
+<li>Only status changes and commit proofs mark an entry as in progress</li>
+<li>Head buttons lie in the card, the title row is ground only</li>
+<li>Overview picks running-card columns from the measured width</li>
+<li>Chosen filter values wear the app accent, not the info tone</li>
+<li>Fassung 0.138.0</li>
+<li>Detail column slides alone, the list takes its width at once</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-03T16-40-12Z/Mindcrack-0.137.0.dmg" length="19045681" type="application/octet-stream" sparkle:edSignature="mwR/BXKDb3Cq3GtQvRmZKLwggn7i2tEAm0Ehtbi9//dqYPyie2piyOF2Bn/e8dsLkrL9SpG3DdrqAYnqJ46pCw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-04T11-31-49Z/Mindcrack-0.138.0.dmg" length="19054708" type="application/octet-stream" sparkle:edSignature="F/uECUWlH1yHdenzeVOVD/Y/lGD1nCbrMb8P/BjRXjNHxKFqWLeSczX6vPT/wKAi4JgLhjBIAiDHGQnIXZJDCw=="/>
         </item>
     </channel>
 </rss>
