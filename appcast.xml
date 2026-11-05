@@ -3,20 +3,22 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.140.0</title>
-            <pubDate>Wed, 04 Nov 2026 13:19:50 +0100</pubDate>
+            <title>0.141.0</title>
+            <pubDate>Thu, 05 Nov 2026 02:25:32 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261104.1219</sparkle:version>
-            <sparkle:shortVersionString>0.140.0</sparkle:shortVersionString>
+            <sparkle:version>20261105.0125</sparkle:version>
+            <sparkle:shortVersionString>0.141.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.140.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.141.0</h2>
+<p>4 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Segment tiles show their count bare and quiet, as the source does</li>
-<li>Fassung 0.140.0</li>
+<li>Page footer follows the source pagination: range and total, arrows as signs, page window</li>
+<li>Plans run in phase order, and a plan's entry follows its steps</li>
+<li>Plan card names its phase and the gate it waits on, and moves on click</li>
+<li>Fassung 0.141.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-04T12-19-44Z/Mindcrack-0.140.0.dmg" length="19052226" type="application/octet-stream" sparkle:edSignature="34vv6bBRuIdnJpcyYUiziD9KcbVmpDVyMNntEbgdlvxpEuhcfT3y3/yaAM5fkzkTl6VVJ+mCeV23GA62V0CLBA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-05T01-25-25Z/Mindcrack-0.141.0.dmg" length="19281286" type="application/octet-stream" sparkle:edSignature="EBqua/bMlFACl+Soq6jZDC/2Idas+zxY4lAb16EZH3Ep/N32uinaCU0+aYtQshZU0nLB2hxbNckBXoOz2047Aw=="/>
         </item>
     </channel>
 </rss>
