@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.143.2</title>
-            <pubDate>Thu, 05 Nov 2026 04:33:04 +0100</pubDate>
+            <title>0.143.3</title>
+            <pubDate>Thu, 05 Nov 2026 11:00:57 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261105.0332</sparkle:version>
-            <sparkle:shortVersionString>0.143.2</sparkle:shortVersionString>
+            <sparkle:version>20261105.1000</sparkle:version>
+            <sparkle:shortVersionString>0.143.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.143.2</h2>
+            <description><![CDATA[<h2>Mindcrack 0.143.3</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Vorhaben: leere Übersicht ohne Projekt führt zum Projekt-Anlegen</li>
-<li>Fassung 0.143.2</li>
+<li>Sparte: nur das älteste Posten mit dem Wert ist ihr Regelwerk</li>
+<li>Fassung 0.143.3</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-05T03-32-57Z/Mindcrack-0.143.2.dmg" length="19351775" type="application/octet-stream" sparkle:edSignature="mlrvtTqkSawkpI74Py/T8VCROBONQ4lgmBSzQrZzfXdhkGgqszbnxbt73kAmhrTO73Ld09by4qqTPb73Z+qCBQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-05T10-00-50Z/Mindcrack-0.143.3.dmg" length="19353772" type="application/octet-stream" sparkle:edSignature="wdQfB4sHcr3i7uLQWFjs99MqLJrNZNicPPBGDIeN9Nn30ttPIkMm6btC8W+hihU9alJhl/q82wgrW/UZz4DiCQ=="/>
         </item>
     </channel>
 </rss>
