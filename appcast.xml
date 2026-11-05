@@ -3,20 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.144.1</title>
-            <pubDate>Thu, 05 Nov 2026 13:29:27 +0100</pubDate>
+            <title>0.145.0</title>
+            <pubDate>Thu, 05 Nov 2026 13:54:44 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261105.1229</sparkle:version>
-            <sparkle:shortVersionString>0.144.1</sparkle:shortVersionString>
+            <sparkle:version>20261105.1254</sparkle:version>
+            <sparkle:shortVersionString>0.145.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.144.1</h2>
+            <description><![CDATA[<h2>Mindcrack 0.145.0</h2>
 <p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Now: runner costs below the projects, log-end scrolls to the foot</li>
-<li>Fassung 0.144.1</li>
+<li>Returns report: entries that went back after built or live, per project and month</li>
+<li>Fassung 0.145.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-05T12-29-20Z/Mindcrack-0.144.1.dmg" length="19465771" type="application/octet-stream" sparkle:edSignature="l/to1Atf1aPQK5P35w2DZRnI8nvW8TQLVVsXqme4s8BFf1LggFt4tEVmunlfXFj7Q4sBmrkXnQ6zxpWzz4DoCA=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-05T12-54-38Z/Mindcrack-0.145.0.dmg" length="19564276" type="application/octet-stream" sparkle:edSignature="wSXBVWjEqwVIX4F62CdfmOVWw+0tIP1tOfZHb45UakkFfbi6G6V2VfTvqAujuEzvOZvvSq5nzpM6Nb4j9r7uCA=="/>
         </item>
     </channel>
 </rss>
