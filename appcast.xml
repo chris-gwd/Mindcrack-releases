@@ -3,19 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.153.0</title>
-            <pubDate>Sat, 07 Nov 2026 22:26:49 +0100</pubDate>
+            <title>0.154.0</title>
+            <pubDate>Sat, 07 Nov 2026 22:57:44 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261107.2126</sparkle:version>
-            <sparkle:shortVersionString>0.153.0</sparkle:shortVersionString>
+            <sparkle:version>20261107.2157</sparkle:version>
+            <sparkle:shortVersionString>0.154.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.153.0</h2>
-<p>1 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.154.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Fassung 0.153.0</li>
+<li>Show each device's own plan usage on its agents tab</li>
+<li>Fassung 0.154.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-07T21-26-42Z/Mindcrack-0.153.0.dmg" length="20133937" type="application/octet-stream" sparkle:edSignature="vdvsf73CYDqRCP6efMpeAwYHXOLoSJ1s50GRDwURZnaP4x2/lbnGdtESc656pIxwNdIbJo+t8UB0ZvzTqoj/AQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-07T21-57-37Z/Mindcrack-0.154.0.dmg" length="19345625" type="application/octet-stream" sparkle:edSignature="8cmNpgnKArS316MmdLlf/JOPynL83tO6ClGQroZhAZNzkw5C3jj4bKlt1ZPoQRXiZcWeeSiP3tJyIETA0rfqCw=="/>
         </item>
     </channel>
 </rss>
