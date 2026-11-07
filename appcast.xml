@@ -3,20 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.150.0</title>
-            <pubDate>Sat, 07 Nov 2026 15:51:22 +0100</pubDate>
+            <title>0.151.0</title>
+            <pubDate>Sat, 07 Nov 2026 17:40:05 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261107.1451</sparkle:version>
-            <sparkle:shortVersionString>0.150.0</sparkle:shortVersionString>
+            <sparkle:version>20261107.1639</sparkle:version>
+            <sparkle:shortVersionString>0.151.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.150.0</h2>
-<p>2 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.151.0</h2>
+<p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Derive every view radius from the roles in Design.swift</li>
-<li>Fassung 0.150.0</li>
+<li>Show piece titles without their department number</li>
+<li>Remove the kanban board from the backlog</li>
+<li>Fassung 0.151.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-07T14-51-15Z/Mindcrack-0.150.0.dmg" length="19659956" type="application/octet-stream" sparkle:edSignature="5eU5LLMaiZggKlAGvbxujnQqWb77y6247TVpmZIDh2mWNfq9F/jLMe8yXNJ5IU1p4wc4Yqc5yEJFYawXMB7OBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-07T16-39-57Z/Mindcrack-0.151.0.dmg" length="20294210" type="application/octet-stream" sparkle:edSignature="nXdCKhYiNLCjFy1iAWylQv1MJd8mxtZhuSoegz6JcrJi/xCA8RGs10j/fdgr9hXdBiU2IWEsrvlVRw5c5pfDBw=="/>
         </item>
     </channel>
 </rss>
