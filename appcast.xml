@@ -3,21 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.159.0</title>
-            <pubDate>Sun, 08 Nov 2026 12:26:07 +0100</pubDate>
+            <title>0.160.0</title>
+            <pubDate>Sun, 08 Nov 2026 13:02:54 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261108.1123</sparkle:version>
-            <sparkle:shortVersionString>0.159.0</sparkle:shortVersionString>
+            <sparkle:version>20261108.1202</sparkle:version>
+            <sparkle:shortVersionString>0.160.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.159.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.160.0</h2>
 <p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Build each release in its own checkout of the release commit</li>
-<li>Revert "Rebuild the window as an agent workbench"</li>
-<li>Fassung 0.159.0</li>
+<li>Take the Sparkle tools from the SwiftPM artifact</li>
+<li>Name the failing line when build.sh stops</li>
+<li>Fassung 0.160.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T11-23-51Z/Mindcrack-0.159.0.dmg" length="19396885" type="application/octet-stream" sparkle:edSignature="do+uJyubsRmDtChL/V4wFTlT4nj/CN4u27Bl+zkcPG4an65NYLV3R13Fg6kzrZAa1529Kwpvb5THIkGstdUIBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T12-02-46Z/Mindcrack-0.160.0.dmg" length="20239064" type="application/octet-stream" sparkle:edSignature="wrU83p7/cxss9sI01mU+yyYX7dNiDbql0yRYAxUW7sZVeiCh9CM1laUX+4Rp1NIgTSzd00Y970ly6zpcqvE8Dw=="/>
         </item>
     </channel>
 </rss>
