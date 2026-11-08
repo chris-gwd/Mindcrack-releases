@@ -3,21 +3,21 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.162.0</title>
-            <pubDate>Sun, 08 Nov 2026 20:00:37 +0100</pubDate>
+            <title>0.162.1</title>
+            <pubDate>Sun, 08 Nov 2026 20:33:33 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261108.1900</sparkle:version>
-            <sparkle:shortVersionString>0.162.0</sparkle:shortVersionString>
+            <sparkle:version>20261108.1933</sparkle:version>
+            <sparkle:shortVersionString>0.162.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.162.0</h2>
+            <description><![CDATA[<h2>Mindcrack 0.162.1</h2>
 <p>3 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Comments in build scripts and icon tools: author prefix, shorter</li>
-<li>Release: drop the CLI before the build so the selftest sees a fresh link</li>
-<li>Fassung 0.162.0</li>
+<li>Comments in AtlasApp store and views: author prefix, restore dropped why-notes</li>
+<li>App comments: shorter wording, simplifications marked</li>
+<li>Fassung 0.162.1</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T19-00-30Z/Mindcrack-0.162.0.dmg" length="19397769" type="application/octet-stream" sparkle:edSignature="QBqkjdZo8hLlKcxHVSyFh4ixNQ70LvHyJmJ6cBfNuge8r7tLIu9GKzfYFrL9VDDNb4jJpqnlhtTl0l0XMldRBQ=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T19-33-27Z/Mindcrack-0.162.1.dmg" length="19397766" type="application/octet-stream" sparkle:edSignature="4qP4+nxmibEHokIw0fDHzoXK6WyBF7u/O8zRsp5PCh/GH/oqc+mzEHt71tbeDDkFEbp9rAU2g/96AHRdFLEFDw=="/>
         </item>
     </channel>
 </rss>
