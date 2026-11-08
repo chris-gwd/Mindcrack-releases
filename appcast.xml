@@ -3,23 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.156.0</title>
-            <pubDate>Sun, 08 Nov 2026 00:28:35 +0100</pubDate>
+            <title>0.157.0</title>
+            <pubDate>Sun, 08 Nov 2026 03:12:29 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261107.2328</sparkle:version>
-            <sparkle:shortVersionString>0.156.0</sparkle:shortVersionString>
+            <sparkle:version>20261108.0212</sparkle:version>
+            <sparkle:shortVersionString>0.157.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.156.0</h2>
-<p>5 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.157.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Read the reload after a foreign write off the main thread</li>
-<li>Hand out no step from a paused plan</li>
-<li>Fassung 0.155.0</li>
-<li>Let each vocabulary value carry its rule for the work</li>
-<li>Fassung 0.156.0</li>
+<li>Show who holds a claimed step and until when</li>
+<li>Fassung 0.157.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-07T23-28-19Z/Mindcrack-0.156.0.dmg" length="20227568" type="application/octet-stream" sparkle:edSignature="PruMbWsFa4KwVr+ClG5btYdk6Rx7GlyJLDppPhlDgirSgi+GheiRW8SPnWKhUSahKTNpe4WvHyPYv/E+R3XLCw=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T02-12-23Z/Mindcrack-0.157.0.dmg" length="20232904" type="application/octet-stream" sparkle:edSignature="syFPHS1V3Cj/jTyN8Sg290zEFtvfY1h5p/tcKpsYhK01I7fk64utLwnMtG0uhAG9RQv9ouLXj5wg08AZIwpxAg=="/>
         </item>
     </channel>
 </rss>
