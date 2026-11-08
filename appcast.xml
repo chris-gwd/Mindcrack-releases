@@ -3,21 +3,20 @@
     <channel>
         <title>Mindcrack</title>
         <item>
-            <title>0.163.0</title>
-            <pubDate>Sun, 08 Nov 2026 20:58:44 +0100</pubDate>
+            <title>0.164.0</title>
+            <pubDate>Sun, 08 Nov 2026 21:24:12 +0100</pubDate>
             <link>https://github.com/chris-gwd/Mindcrack-releases/releases</link>
-            <sparkle:version>20261108.1958</sparkle:version>
-            <sparkle:shortVersionString>0.163.0</sparkle:shortVersionString>
+            <sparkle:version>20261108.2024</sparkle:version>
+            <sparkle:shortVersionString>0.164.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mindcrack 0.163.0</h2>
-<p>3 Änderungen seit der letzten Fassung.</p>
+            <description><![CDATA[<h2>Mindcrack 0.164.0</h2>
+<p>2 Änderungen seit der letzten Fassung.</p>
 <ul>
-<li>Prefix and tighten comments across AtlasCore</li>
-<li>Prefix and tighten comments in AtlasCore migrations, paths, queue, tokens</li>
-<li>Fassung 0.163.0</li>
+<li>Shorten comments and add author prefixes in atlas CLI, service and selftest</li>
+<li>Fassung 0.164.0</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T19-58-37Z/Mindcrack-0.163.0.dmg" length="19397811" type="application/octet-stream" sparkle:edSignature="yId+qGT0ZlP5S6qdZ00ewqlad/YyXOxjwC49QqDUH1ZkBW+0DRCGlBXZ6heKMhETs12JbOkprSwWdEl4nmjEBg=="/>
+            <enclosure url="https://github.com/chris-gwd/Mindcrack-releases/releases/download/build-2026-11-08T20-24-05Z/Mindcrack-0.164.0.dmg" length="19397711" type="application/octet-stream" sparkle:edSignature="3ui6174aq0dGFeoUNHYyCfMR+y19U4NvT5j7JQpw8TcibUmmlg1qKQ1gM+hXYq3HcayI97t+JpfVrJkP8jweDA=="/>
         </item>
     </channel>
 </rss>
